@@ -117,6 +117,14 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 ☕ When I'm not pushing to master, you can find me mastering the art of coffee brewing.  
 🍕 Feel free to fork my life, but please, no pull requests in the kitchen!
 
+## Focus of Interest
+
+I am particularly passionate about **Machine Learning**, **Data Structures and Algorithms (DSA)**, **Electronics**, **Cybersecurity**, and leveraging technology to solve real-world problems.
+
+## Call to Action
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252) or explore my projects on [GitHub](https://github.com/adityajhakumar). Let's discuss innovative ideas and collaborate on solving challenges through technology!
+
 <!---
 adityajhakumar/adityajhakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
