@@ -1,12 +1,12 @@
 # Hi there, I'm Aditya Kumar Jha 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400) <!-- Replace with a banner image URL if available -->
+![Profile Banner](./github-header-image.png)
 
 ## About Me
 
 I'm Aditya Kumar Jha, currently pursuing my BTech in ECE at VIT Chennai. By day, I'm a full-time code wrangler, and by night, I transform into an intergalactic space explorer. My code is so clean, even my cat can't leave a hairball in it. I speak Python and Java because you never know when you'll need to debug on Qo'noS. Committing to excellence, one line of code at a time.
 
-When I'm not pushing to master, you can find me mastering the art of coffee brewing ☕. Feel free to fork my life, but please, no pull requests in the kitchen! 🍕 
+When I'm not pushing to master, you can find me mastering the art of coffee brewing ☕. Feel free to fork my life, but please, no pull requests in the kitchen! 🍕
 
 ## Education
 
@@ -70,9 +70,26 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 
 ## Technical Skills
 
-- **Languages**: Python, Java, C#, R, MATLAB
-- **Concepts**: Artificial Intelligence, Machine Learning, Neural Networks, MySQL, Data Structures, Signal Processing
-- **Software**: ModelSim, Keil, LT Spice, Unity
+- **Languages**:
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
+  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) 
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) 
+  ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) 
+  ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
+
+- **Concepts**: 
+  ![AI](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F00?logo=artificial-intelligence&logoColor=white&style=flat) 
+  ![ML](https://img.shields.io/badge/-Machine%20Learning-007396?logo=tensorflow&logoColor=white&style=flat) 
+  ![Neural Networks](https://img.shields.io/badge/-Neural%20Networks-FF6F00?logo=neural&logoColor=white&style=flat) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) 
+  ![Data Structures](https://img.shields.io/badge/-Data%20Structures-007396?logo=databricks&logoColor=white&style=flat) 
+  ![Signal Processing](https://img.shields.io/badge/-Signal%20Processing-FF6F00?logo=signal&logoColor=white&style=flat)
+
+- **Software**:
+  ![ModelSim](https://img.shields.io/badge/-ModelSim-007396?logo=modelsim&logoColor=white&style=flat) 
+  ![Keil](https://img.shields.io/badge/-Keil-FF6F00?logo=keil&logoColor=white&style=flat) 
+  ![LT Spice](https://img.shields.io/badge/-LT%20Spice-007396?logo=ltspice&logoColor=white&style=flat) 
+  ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 
 ## Achievements
 
@@ -98,4 +115,9 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 🐾 My code is so clean, even my cat can't leave a hairball in it.  
 🔧 I speak Python and Java – because you never know when you'll need to debug on Qo'noS.  
 ☕ When I'm not pushing to master, you can find me mastering the art of coffee brewing.  
-🍕 Feel free to fork my life, but please, no pull requests in the kitchen
+🍕 Feel free to fork my life, but please, no pull requests in the kitchen!
+
+<!---
+adityajhakumar/adityajhakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
