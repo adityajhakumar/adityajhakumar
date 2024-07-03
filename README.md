@@ -1,3 +1,6 @@
+
+---
+
 # Hi there, I'm Aditya Kumar Jha 👋
 
 ![Profile Banner](./github-header-image.png)
@@ -52,7 +55,7 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
   - Secretary
   - Chennai, Tamil Nadu
 
-- **VITC-FITNESS CLUB** (Nov 2023 – JULY 2024)
+- **VITC-FITNESS CLUB** (Nov 2023 – Present)
   - Marketing Head
   - Chennai, Tamil Nadu
 
@@ -63,24 +66,24 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 ### Major Projects
 
 - **Tracing Source of Attack**
-  - Technologies: Python, GUI
+  - Technologies: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![GUI](https://img.shields.io/badge/-GUI-007396?logo=gui&logoColor=white&style=flat)
 
 - **TERVIVE-AQI Related Health Issue Predictor**
-  - Technologies: Machine Learning, Python, FastAPI
+  - Technologies: ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007396?logo=tensorflow&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 
 - **Darkension-Dark Pattern Buster**
-  - Technologies: Machine Learning, HTML, CSS, JavaScript, Flask
+  - Technologies: ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007396?logo=tensorflow&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 
 ### Practice Projects
 
 - **Indic Language Extension**
-  - Technologies: Python, HTML, CSS, JavaScript
+  - Technologies: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 - **Tumour Detection Using MATLAB**
-  - Technologies: MATLAB
+  - Technologies: ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat)
 
 - **Bluetooth Controlled Car Using 8051**
-  - Technologies: Assembly Language Programming
+  - Technologies: ![Assembly Language](https://img.shields.io/badge/-Assembly%20Language-239120?logo=assembly&logoColor=white&style=flat)
 
 ---
 
@@ -137,15 +140,4 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 
 ## Focus of Interest
 
-I am particularly passionate about **Machine Learning**, **Data Structures and Algorithms (DSA)**, **Electronics**, **Cybersecurity**, and leveraging technology to solve real-world problems.
-
----
-
-## Call to Action
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252) or explore my projects on [GitHub](https://github.com/adityajhakumar). Let's discuss innovative ideas and collaborate on solving challenges through technology!
-
-<!---
-adityajhakumar/adityajhakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am particularly passionate about **Machine Learning**, **Data Structures and Algorithms (DSA)**, **Electronics**, **Cybersecurity**, and leveraging technology to solve real
