@@ -36,6 +36,42 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 
 ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical)
 
+### GitHub Activity Graph
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityajhakumar&theme=github)
+
+### GitHub Extra Pins
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityajhakumar&repo=repository-name)](https://github.com/adityajhakumar/repository-name)
+
+### GitHub Followers Badge
+
+![GitHub Followers](https://img.shields.io/github/followers/adityajhakumar?label=Followers&style=social)
+
+### GitHub Issues Badge
+
+![GitHub Issues](https://img.shields.io/github/issues/adityajhakumar/repository-name)
+
+### GitHub Pull Requests Badge
+
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/adityajhakumar/repository-name)
+
+### GitHub Forks Badge
+
+![GitHub Forks](https://img.shields.io/github/forks/adityajhakumar/repository-name?style=social)
+
+### GitHub Stars Badge
+
+![GitHub Stars](https://img.shields.io/github/stars/adityajhakumar/repository-name?style=social)
+
+### GitHub License Badge
+
+![GitHub License](https://img.shields.io/github/license/adityajhakumar/repository-name)
+
+### GitHub Gists Badge
+
+![GitHub Gists](https://img.shields.io/github/gists/adityajhakumar)
+
 ---
 
 ## Experience
