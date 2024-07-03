@@ -8,15 +8,35 @@ I'm Aditya Kumar Jha, currently pursuing my BTech in ECE at VIT Chennai. By day,
 
 When I'm not pushing to master, you can find me mastering the art of coffee brewing ☕. Feel free to fork my life, but please, no pull requests in the kitchen! 🍕
 
-## Education
+---
 
-- **VIT Chennai** (2022 - 2026)
-  - B.Tech in Electronics and Communication Engineering
-  - Chennai, Tamil Nadu
+## GitHub Profile Features
 
-- **Kendriya Vidyalaya** (2010 - 2022)
-  - Primary and Secondary Schooling
-  - Port Blair, Chennai
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityajhakumar)
+
+### GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical)
+
+### Contributions
+
+![Total Contributions](https://github-readme-stats.vercel.app/api?username=adityajhakumar&count_private=true&show_icons=true&theme=radical)
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical)
+
+![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical)
+
+---
 
 ## Experience
 
@@ -36,13 +56,7 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
   - Marketing Head
   - Chennai, Tamil Nadu
 
-## Job Simulations
-
-- **J.P.Morgan** (May 2024)
-  - Software Engineering Forage
-
-- **J.P.Morgan** (May 2024)
-  - Excel Skill Job Forage
+---
 
 ## Projects
 
@@ -68,6 +82,8 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 - **Bluetooth Controlled Car Using 8051**
   - Technologies: Assembly Language Programming
 
+---
+
 ## Technical Skills
 
 - **Languages**:
@@ -91,11 +107,15 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
   ![LT Spice](https://img.shields.io/badge/-LT%20Spice-007396?logo=ltspice&logoColor=white&style=flat) 
   ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 
+---
+
 ## Achievements
 
 - **IEEE YESSIT 24**: Finalist
 - **Samsung PRISM Metaverse**: Finalist
 - **SAP Hackathon**: Finalist
+
+---
 
 ## Let's Connect
 
@@ -103,11 +123,7 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 - 💼 LinkedIn: [Aditya Kumar Jha](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
 - 🐱‍💻 GitHub: [adityajhakumar](https://github.com/adityajhakumar)
 
-## GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical)
+---
 
 ## Fun Facts
 
@@ -117,9 +133,13 @@ When I'm not pushing to master, you can find me mastering the art of coffee brew
 ☕ When I'm not pushing to master, you can find me mastering the art of coffee brewing.  
 🍕 Feel free to fork my life, but please, no pull requests in the kitchen!
 
+---
+
 ## Focus of Interest
 
 I am particularly passionate about **Machine Learning**, **Data Structures and Algorithms (DSA)**, **Electronics**, **Cybersecurity**, and leveraging technology to solve real-world problems.
+
+---
 
 ## Call to Action
 
