@@ -102,13 +102,17 @@ When I'm not pushing to master, you can find me **mastering the art of coffee br
 
 ---
 
+
+
+## 📚 My Books  
+- [Amazon Author Page](https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ?ref=sr_ntt_srch_lnk_3&qid=1743316860&sr=1-3&isDramIntegrated=true&shoppingPortalEnabled=true)
+
 ## Let's Connect
 
 - 📧 Email: [adityajha29092004@gmail.com](mailto:adityajha29092004@gmail.com)  
 - 💼 LinkedIn: [Aditya Kumar Jha](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)  
 - 🐱‍💻 GitHub: [adityajhakumar](https://github.com/adityajhakumar)  
 
----
 
 ## Fun Facts
 
