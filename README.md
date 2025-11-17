@@ -2,131 +2,234 @@
 
 ![Profile Banner](./github-header-image.png)
 
+<div align="center">
+  
+  **Electronics & Communication Engineer** | **ML Enthusiast** | **Product Builder** | **Sci-Fi Author**
+  
+  *Building AI-powered solutions that make a difference*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityajhakumar)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityajha29092004@gmail.com)
+  [![Author Page](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=adityajhakumar&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
 ## 🚀 About Me
 
-I'm Aditya Kumar Jha, currently pursuing my **B.Tech in Electronics and Communication Engineering (ECE)** at **VIT Chennai** (2022–2026). I thrive on building innovative tech solutions, fusing engineering with imagination. Whether it's developing ML models, engineering autonomous systems, or authoring sci-fi novels — I'm always pushing boundaries.
+I'm a **B.Tech ECE student at VIT Chennai** (2022–2026) who loves building products that solve real problems. From **AI-powered health platforms** to **autonomous vehicles**, I turn ideas into impactful solutions.
 
-I'm proficient in **Python, C, C++, Java**, and love working with frameworks like **TensorFlow**, **PyTorch**, and **React Native**. My philosophy? _“Code like an engineer. Dream like a writer.”_
+**What drives me?** The intersection of **engineering precision** and **creative innovation**. By day, I code ML models and embedded systems. By night, I write science fiction novels exploring futuristic worlds.
 
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** Python, C++, Java, C  
-- **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, OpenCV, React Native, Pandas, NumPy, Streamlit  
-- **Cloud & Backend:** AWS (EC2, S3), Firebase, Supabase  
-- **Tools & IDEs:** Cisco Packet Tracer, HFSS, ModelSim, Keil uVision IDE  
-- **Domains:** Data Structures & Algorithms, Machine Learning, NLP, Predictive Analytics
+> *"Code like an engineer. Dream like a writer. Build like a founder."*
 
 ---
 
-## 💼 Experience
+## 🏆 Standout Achievements
 
-- **Ocean Electronics Intern, NIOT** _(May 2025 – Jun 2025)_  
-  Developed an Autonomous Surface Vehicle (ASV) integrating GPS, IMU, and ESP32 for real-time navigation. Engineered GPS-denied routing via Kalman filters, dead reckoning, and Dijkstra's algorithm.
+🌍 **IEEE YESSIT'24 International Finalist** — Represented India in Tunisia with Tervive, an AI climate health platform
 
-- **PRISM Intern, Samsung** _(Jul 2024 – Dec 2024)_  
-  Built a transformer-based deep learning model for Human Activity Recognition using UCF101. Achieved 96% accuracy and optimized it for mobile deployment.
+🚀 **Product Hunt Success** — Launched 3 products that collectively reached **19,700+ users** in 24 hours:
+- **NukkadMiles**: #8 globally (6,700+ users) — AI travel planner
+- **NoteFlow**: #9 globally (4,000+ users) — Mood-based productivity app  
+- **Chikitsa**: #34 globally (9,000+ users) — Ethical AI health platform
 
-- **Secretary, VITC-MMC** _(Jul 2024 – Jul 2025)_  
-  Directed a 30+ member club, managed high-impact events (500+ attendees), and authored a club-led literary novel to boost engagement and visibility.
+🤖 **Samsung PRISM Finalist** — Built immersive metaverse simulations using Unity
 
----
-
-## 🚀 Projects
-
-### 🧠 Major Projects
-
-- **Tervive – AQI-Based Health Risk Predictor**  
-  _[GitHub](https://github.com/adityajhakumar/terviveapp)_  
-  ML-powered mobile platform for predicting air-quality-induced health risks with decentralized plant seller listings. Used Python, Firebase, and React Native.
-
-- **PlantNetLite – Plant Disease Detection System**  
-  _[GitHub](https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP)_  
-  Deep learning tool for detecting plant diseases with 97% accuracy. Developed with Python, TensorFlow, and OpenCV.
-
-- **Tracing Source of Attack – Cybersecurity Tool**  
-  _[GitHub](https://github.com/adityajhakumar/TRACING_HACKER)_  
-  GUI app for real-time IP tracing and anomaly detection. Implemented geolocation mapping and simulated attack analysis.
-
-- **DARKENSION – Dark Pattern Detection Extension**  
-  _[GitHub](https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION)_  
-  Browser extension to identify deceptive UX patterns, featuring an integrated ad-blocker.
-
-### 🌟 Launch-Featured Projects
-
-- **NoteFlow – Mood-Based Productivity App**  
-  _[Product Hunt](https://www.producthunt.com/posts/noteflow-2)_  
-  AI-enhanced To-Do app with music, distraction blockers, and gamified task competitions. Ranked #9 globally with 4,000+ users on launch day.
-
-- **Chikitsa – AI-Powered Healthcare Platform**  
-  _[Product Hunt](https://www.producthunt.com/posts/chikitsa)_  
-  Privacy-focused medical assistant offering symptom analysis and rural health infra assessments. Ranked #34 globally, with 9,000+ users on launch.
+🏅 **NPTEL Top Scorer** — Wildlife Ecology course (100/100) from IIT Madras
 
 ---
 
-## 🏆 Achievements
+## 💼 Professional Experience
 
-- **IEEE YESSIT’24 International Finalist**  
-  Represented India at IEEE’s global innovation challenge for environmental & economic tech solutions.
+### 🌊 Ocean Electronics Intern | NIOT
+*May 2025 – June 2025*
 
-- **Samsung PRISM Metaverse Finalist**  
-  Built immersive simulations using Unity, enhancing virtual interaction.
+Engineered an **Autonomous Surface Vehicle (ASV)** with GPS, 9-DOF IMU, and ESP32 for real-time navigation. Implemented advanced algorithms:
+- Kalman filtering for sensor fusion
+- Dead reckoning for GPS-denied environments
+- Artificial Potential Field methods for path planning
 
-- **SAP Hackathon & IEEE YESSIT’24**  
-  Co-founded Tervive, a startup tackling AQI-related health issues with ML.
+### 📱 PRISM Intern | Samsung
+*July 2024 – December 2024*
 
-- **Product Hunt Top Launches**  
-  - **NoteFlow:** #9 worldwide  
-  - **Chikitsa:** #34 worldwide  
+Built a **Transformer-based Human Activity Recognition model** on UCF101 dataset:
+- Achieved **96% accuracy**
+- Optimized for mobile deployment (40% compute cost reduction vs CNN baselines)
+- Created custom dataset for robust performance
+
+### 🎯 Secretary | VITC-MMC
+*July 2024 – July 2025*
+
+Led a 30+ member student organization:
+- Organized large-scale events with 500+ attendees
+- Authored and published a club-led novel
+- Enhanced organizational visibility through technical content development
 
 ---
 
-## 📜 Certifications
+## 🛠️ Featured Projects
 
-- **Wildlife Ecology** – NPTEL, IIT Madras (Nov 2024) — _Scored 100/100_  
-- **VLSI Foundation** – Maven Silicon  
-- **Software Engineering Simulation** – J.P. Morgan (Forage, May 2024)
+### 🌟 Launch Products (Live & Ranked)
+
+<table>
+<tr>
+<td width="50%">
+
+**NukkadMiles** — AI Travel Planner  
+🏆 #8 on Product Hunt | 6,700+ users  
+[🔗 Product Hunt](https://www.producthunt.com/posts/nukkadmiles)
+
+Smart travel planner with personalized AI itineraries. Fully bootstrapped with zero external funding.
+
+</td>
+<td width="50%">
+
+**NoteFlow** — Mood-Based Productivity  
+🏆 #9 on Product Hunt | 4,000+ users  
+[🔗 Product Hunt](https://www.producthunt.com/posts/noteflow-2)
+
+Gamified productivity tool with AI writing assistant, mood tracking, and integrated music player.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Chikitsa** — Ethical AI Healthcare  
+🏆 #34 on Product Hunt | 9,000+ users  
+[🔗 Product Hunt](https://www.producthunt.com/posts/chikitsa)
+
+Privacy-first medical assistant for symptom analysis, medicine guidance, and health dashboards.
+
+</td>
+<td width="50%">
+
+**Tervive** — AQI Health Predictor  
+🌍 IEEE YESSIT'24 Finalist  
+[🔗 GitHub](https://github.com/adityajhakumar/terviveapp)
+
+ML-powered platform predicting air-quality health risks with decentralized plant seller listings.
+
+</td>
+</tr>
+</table>
+
+### 🔬 Technical Deep Dives
+
+**AnalyzeX** — AI Business Intelligence Agent  
+[🔗 GitHub](https://github.com/adityajhakumar/AnalyzeX)  
+No-code platform for automated business reports and dashboards. Enables non-technical users to query datasets via AI while ensuring data privacy (files never leave local system). **80% cost savings vs traditional BI tools.**
+
+**LumiChat** — Multi-Model AI Orchestration  
+[🔗 GitHub](https://github.com/adityajhakumar/LumiChat)  
+Unified interface for 22+ AI models. Helps students overcome model limitations and documentation issues. Supports text, images, and knowledge-based prompts.
+
+**DARKENSION** — Dark Pattern Detector  
+[🔗 GitHub](https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION)  
+Browser extension identifying deceptive UX patterns with integrated ad-blocker.
+
+**PlantNetLite** — Disease Detection System  
+[🔗 GitHub](https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP)  
+Deep learning tool for plant disease detection with **97% accuracy**. Built with TensorFlow and OpenCV.
+
+**Tracing Source of Attack** — Cybersecurity Tool  
+[🔗 GitHub](https://github.com/adityajhakumar/TRACING_HACKER)  
+Real-time IP tracing GUI with geolocation mapping and anomaly detection for threat analysis.
+
+---
+
+## 💻 Technical Arsenal
+
+```python
+class AdityaKumarJha:
+    def __init__(self):
+        self.role = "ECE Engineer & Product Builder"
+        self.location = "Chennai, India"
+        self.education = "VIT Chennai (B.Tech ECE)"
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "C++", "Java", "C"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "Scikit-learn", "OpenCV"],
+            "mobile_web": ["React Native", "Streamlit"],
+            "cloud": ["AWS (EC2, S3)", "Firebase", "Supabase"],
+            "embedded": ["ESP32", "Kalman Filtering", "Sensor Fusion"],
+            "tools": ["Cisco Packet Tracer", "HFSS", "ModelSim", "Keil uVision", "Git"],
+            "domains": ["Machine Learning", "NLP", "Predictive Analytics", 
+                       "Autonomous Systems", "Product Development"]
+        }
+    
+    def get_current_focus(self):
+        return [
+            "Building AI-powered products that scale",
+            "Embedded systems & autonomous navigation",
+            "Writing science fiction novels",
+            "Launching on Product Hunt 🚀"
+        ]
+```
 
 ---
 
 ## 📚 Published Author
 
-I’ve authored and published **5 science fiction novels** via Amazon KDP, merging imagination with scientific themes in futuristic worlds.
+Beyond code, I explore futuristic worlds through storytelling. I've authored and published **5 science fiction novels** via Amazon KDP, blending scientific concepts with imaginative narratives.
 
-👉 [Visit My Author Page](https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ)
-
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=adityajhakumar)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=onedark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical)
+📖 [Visit My Author Page](https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ)
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Analytics
 
-- 📧 [adityajha29092004@gmail.com](mailto:adityajha29092004@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)  
-- 🐱‍💻 [GitHub](https://github.com/adityajhakumar)  
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical&hide_border=true&background=0D1117)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=radical&no-frame=true&row=1&column=7)
+
+</div>
 
 ---
 
-## ☕ Fun Facts
+## 🎯 What I'm Up To
 
-- 🛠️ Code wrangler by day, sci-fi writer by night.  
-- 🧪 Can debug bugs faster than my cat can knock over a coffee cup.  
-- 🌌 Obsessed with space, coffee, and clean syntax.  
-- 🍕 Fork my repo, not my pizza.
+- 🔭 Currently working on: **Next-gen AI product launches**
+- 🌱 Learning: **Advanced reinforcement learning & embedded ML**
+- 👯 Open to collaborate on: **AI/ML projects, autonomous systems, product ideas**
+- 💬 Ask me about: **Machine learning, product building, Product Hunt launches, sci-fi writing**
+- ⚡ Fun fact: **I can debug code faster than my coffee gets cold ☕**
 
 ---
 
-_“The only limit to innovation is the edge of your imagination — and maybe a few memory leaks.”_
+## 📬 Let's Connect!
+
+I'm always excited to discuss **AI, product ideas, autonomous systems**, or even **science fiction concepts**! 
+
+- 📧 Email: [adityajha29092004@gmail.com](mailto:adityajha29092004@gmail.com)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/aditya-kumar-jha-b0b669252)
+- 🐱‍💻 GitHub: [Follow my work](https://github.com/adityajhakumar)
+- 📚 Author Page: [Read my novels](https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ)
+
+---
+
+<div align="center">
+  
+  ### 💭 Philosophy
+  
+  *"The only limit to innovation is the edge of your imagination — and maybe a few memory leaks."*
+  
+  **Fork my repos, not my pizza** 🍕
+  
+  ---
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  
+</div>
