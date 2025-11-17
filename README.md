@@ -3,7 +3,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20|%20AI%20Builder%20|%20Product%20Launcher%20|%20Sci-Fi%20Author&descAlignY=51&descAlign=50"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=680&lines=Building+AI+Products+That+Matter+🚀;19,700%2B+Users+Across+3+Launches+🏆;IEEE+YESSIT+International+Finalist+🌍;Full-Stack+AI+and+ML+Engineer+💻;Published+Science+Fiction+Author+📚;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
+  
+**🚀 Building AI Products That Matter | 🏆 19,700+ Users Across 3 Launches**
+
+**🌍 IEEE YESSIT International Finalist | 💻 Full-Stack AI & ML Engineer**
+
+**📚 Published Science Fiction Author | ☕ Turning Coffee Into Code**
+
 </div>
 
 <br>
@@ -37,7 +43,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <div align="left">
 
