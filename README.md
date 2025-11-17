@@ -1,19 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Kumar%20Jha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20|%20AI%20Builder%20|%20Product%20Launcher%20|%20Sci-Fi%20Author&descAlignY=51&descAlign=50"/>
+<!-- Animated Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Kumar%20Jha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Engineer%20|%20AI%20Builder%20|%20Product%20Launcher%20|%20Sci-Fi%20Author%20🌟&descAlignY=55&descAlign=50&descSize=18"/>
 
-<div align="center">
-  
-**🚀 Building AI Products That Matter | 🏆 19,700+ Users Across 3 Launches**
+<!-- Animated Text Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/💡_Building_AI_Products-That_Matter-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
+  <img src="https://img.shields.io/badge/🏆_19,700+_Users-Across_3_Launches-FF6B6B?style=for-the-badge&labelColor=1a1b27&color=FF6B6B"/>
+</p>
 
-**🌍 IEEE YESSIT International Finalist | 💻 Full-Stack AI & ML Engineer**
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_IEEE_YESSIT-International_Finalist-4ECDC4?style=for-the-badge&labelColor=1a1b27&color=4ECDC4"/>
+  <img src="https://img.shields.io/badge/💻_Full_Stack-AI_&_ML_Engineer-95E1D3?style=for-the-badge&labelColor=1a1b27&color=95E1D3"/>
+</p>
 
-**📚 Published Science Fiction Author | ☕ Turning Coffee Into Code**
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/📚_Published-Science_Fiction_Author-FFD93D?style=for-the-badge&labelColor=1a1b27&color=FFD93D"/>
+  <img src="https://img.shields.io/badge/☕_Turning_Coffee-Into_Code-A8E6CF?style=for-the-badge&labelColor=1a1b27&color=A8E6CF"/>
+</p>
 
 <br>
 
+<!-- Animated Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
@@ -31,15 +39,26 @@
 
 <img src="https://komarev.com/ghpvc/?username=adityajhakumar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views"/>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Glitch Effect Text -->
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  Welcome to My Digital Workspace
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
 
 </div>
 
 <br>
 
+<!-- About Me Section with Animation -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
 </div>
 
@@ -77,255 +96,261 @@ me.say_hi()
 
 <br clear="both">
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Tech Stack Section with Pulse Animation -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> Tech Stack & Skills
-
-</div>
-
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack & Skills
 
 ### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c&theme=dark" alt="Languages"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </p>
 
 ### ☁️ Cloud & Backend
 <p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase&theme=dark" alt="Cloud"/>
 </p>
 
 ### 📱 Mobile & Web
 <p>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="Web"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ### 🛠️ Tools & Embedded
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,arduino,linux&theme=dark" alt="Tools"/>
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 </div>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- GitHub Stats with Animation -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/adityajhakumar">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:adityajha29092004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
-  <img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-</a>
-</p>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="Git"/> GitHub Analytics
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B6B" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+</div>
 
 <br>
 
 <div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" alt="Git"/> GitHub Analytics
-
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
 </div>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityajhakumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-</p>
+<br>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=adityajhakumar&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Contribution Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajhakumar&custom_title=Contribution%20Activity&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" width="98%"/>
-</p>
-
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajhakumar&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" width="95%"/>
 </div>
 
+<br>
+
+<!-- Trophy Animation -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
+</div>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Hall of Fame with Animated Icons -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Hall of Fame
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Hall of Fame
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100"/>
 <br><br>
-<img src="https://img.shields.io/badge/IEEE_YESSIT'24-International_Finalist-gold?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IEEE_YESSIT'24-🏆_Finalist-FFD700?style=for-the-badge&labelColor=1a1b27"/>
 <br><br>
-<b>🌍 Represented India</b>
+<b>🌍 International Stage</b>
 <br>
-<sub>Climate Health Innovation | Tunisia</sub>
+<sub>Represented India in Tunisia</sub>
+<br>
+<sub>Climate Health Innovation</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100"/>
 <br><br>
-<img src="https://img.shields.io/badge/Product_Hunt-3_Launches-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product_Hunt-🚀_3_Launches-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
 <br><br>
-<b>🚀 19,700+ Users</b>
+<b>📈 19,700+ Users</b>
 <br>
-<sub>Combined Day 1 Launch Success</sub>
+<sub>Combined Day 1 Success</sub>
+<br>
+<sub>Top 10 Global Rankings</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
 <br><br>
-<img src="https://img.shields.io/badge/Samsung_PRISM-Finalist-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Samsung_PRISM-🎯_Finalist-4169E1?style=for-the-badge&labelColor=1a1b27"/>
 <br><br>
 <b>🤖 96% Accuracy</b>
 <br>
-<sub>HAR Model | Mobile Optimized</sub>
+<sub>HAR Model Achievement</sub>
+<br>
+<sub>Mobile Optimized AI</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/26tPqTOGf3MMAo7Cw/giphy.gif" width="80"/>
+<img src="https://media.giphy.com/media/26tPqTOGf3MMAo7Cw/giphy.gif" width="100"/>
 <br><br>
-<img src="https://img.shields.io/badge/NPTEL_IIT-100%2F100-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL_IIT-💯_100/100-32CD32?style=for-the-badge&labelColor=1a1b27"/>
 <br><br>
-<b>💯 Perfect Score</b>
+<b>🎓 Perfect Score</b>
 <br>
 <sub>Wildlife Ecology Course</sub>
+<br>
+<sub>IIT Madras Certified</sub>
 </td>
 </tr>
 </table>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Product Launches -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Product Launches
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Product Launches
 
-### 🌊 Reached 19,700+ Users in 24 Hours
+<h3>🌊 Reached 19,700+ Users in 24 Hours</h3>
 
 </div>
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120" height="120"/>
 <br><br>
 
 ### **🗺️ NukkadMiles**
 **AI Travel Planner**
 
-<img src="https://img.shields.io/badge/Rank-8_Worldwide-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_Rank_8-Worldwide-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+
+<br>
 
 **6,700+ Users** • Day 1  
-Personalized AI itineraries  
-Fully bootstrapped
+✨ Personalized AI itineraries  
+💰 Fully bootstrapped  
+🚀 Zero external funding
 
-[🔗 Product Hunt](https://www.producthunt.com/posts/nukkadmiles)
+<br>
+
+<a href="https://www.producthunt.com/posts/nukkadmiles">
+  <img src="https://img.shields.io/badge/View_Launch-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+</a>
 
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" height="120"/>
 <br><br>
 
 ### **✅ NoteFlow**
 **Mood-Based Productivity**
 
-<img src="https://img.shields.io/badge/Rank-9_Worldwide-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_Rank_9-Worldwide-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+
+<br>
 
 **4,000+ Users** • Day 1  
-Gamified tasks + AI assistant  
-Integrated music player
+🎮 Gamified task system  
+🤖 AI writing assistant  
+🎵 Integrated music player
 
-[🔗 Product Hunt](https://www.producthunt.com/posts/noteflow-2)
+<br>
+
+<a href="https://www.producthunt.com/posts/noteflow-2">
+  <img src="https://img.shields.io/badge/View_Launch-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+</a>
 
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="100" height="100"/>
+<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="120" height="120"/>
 <br><br>
 
 ### **🏥 Chikitsa**
 **Ethical AI Healthcare**
 
-<img src="https://img.shields.io/badge/Rank-34_Worldwide-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆_Rank_34-Worldwide-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+
+<br>
 
 **9,000+ Users** • Day 1  
-Privacy-first medical AI  
-Multi-user dashboards
+🔒 Privacy-first medical AI  
+📊 Multi-user dashboards  
+🇮🇳 Built for India
 
-[🔗 Product Hunt](https://www.producthunt.com/posts/chikitsa)
+<br>
+
+<a href="https://www.producthunt.com/posts/chikitsa">
+  <img src="https://img.shields.io/badge/View_Launch-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Professional Experience -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Professional Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
 
 </div>
 
 <details open>
 <summary><b>🌊 Ocean Electronics Intern @ NIOT</b> • <i>May 2025 – Jun 2025</i></summary>
 <br>
-<img align="right" width="300" src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif">
 
-**Mission:** Autonomous Surface Vehicle Engineering
+**🎯 Mission:** Autonomous Surface Vehicle Engineering
 
-- 🛰️ **GPS & IMU Integration**: ESP32 + 9-DOF BNO055 for real-time navigation
-- 🎯 **Kalman Filtering**: Advanced sensor fusion algorithms
-- 🧭 **GPS-Denied Navigation**: Dead reckoning implementation  
-- 🗺️ **Path Planning**: Artificial Potential Field methods
+**Key Achievements:**
+- 🛰️ **Real-time Navigation**: Integrated GPS + 9-DOF BNO055 IMU with ESP32
+- 🎯 **Kalman Filtering**: Implemented advanced sensor fusion algorithms
+- 🧭 **GPS-Denied Navigation**: Built dead reckoning system for signal loss
+- 🗺️ **Path Planning**: Deployed Artificial Potential Field methods
 
-**Tech Stack:** ESP32 • Python • C++ • Kalman Filters • Navigation Algorithms
+**🔧 Tech Stack:** `ESP32` `Python` `C++` `Kalman Filters` `Navigation Algorithms`
 
 <br clear="right">
 </details>
@@ -333,16 +358,17 @@ Multi-user dashboards
 <details open>
 <summary><b>📱 PRISM Intern @ Samsung</b> • <i>Jul 2024 – Dec 2024</i></summary>
 <br>
-<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-**Mission:** Human Activity Recognition AI Model
+**🎯 Mission:** Human Activity Recognition AI Model
 
-- 🤖 **Transformer Architecture**: Custom model on UCF101 dataset
-- 📊 **96% Accuracy**: State-of-the-art performance
-- ⚡ **Mobile Optimization**: 40% compute reduction vs CNNs
+**Key Achievements:**
+- 🤖 **Transformer Architecture**: Built custom model on UCF101 dataset
+- 📊 **96% Accuracy**: Achieved state-of-the-art performance
+- ⚡ **Mobile Optimization**: Reduced compute cost by 40% vs CNNs
 - 📱 **Real-time Inference**: Deployed on smartphones & wearables
 
-**Tech Stack:** PyTorch • TensorFlow • Computer Vision • Model Optimization
+**🔧 Tech Stack:** `PyTorch` `TensorFlow` `Computer Vision` `Model Optimization`
 
 <br clear="right">
 </details>
@@ -350,27 +376,30 @@ Multi-user dashboards
 <details open>
 <summary><b>🎯 Secretary @ VITC-MMC</b> • <i>Jul 2024 – Jul 2025</i></summary>
 <br>
-<img align="right" width="300" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif">
 
-**Mission:** Leading Student Innovation & Content
+**🎯 Mission:** Leading Student Innovation & Content
 
-- 👥 **Team Leadership**: 30+ member organization
-- 🎪 **Event Management**: 500+ attendees per event
+**Key Achievements:**
+- 👥 **Team Leadership**: Directed 30+ member organization
+- 🎪 **Event Management**: Organized events with 500+ attendees
 - 📚 **Content Creation**: Authored & published club-led novel
-- 🚀 **Brand Building**: Enhanced organizational visibility
+- 🚀 **Brand Building**: Significantly enhanced organizational visibility
 
-**Impact:** 500+ attendees • Published novel • Increased engagement
+**📈 Impact:** `500+ attendees per event` `Published novel` `Increased engagement`
 
 <br clear="right">
 </details>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Featured Projects -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="35"> Featured Projects
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="40"> Featured Projects
 
 </div>
 
@@ -381,41 +410,55 @@ Multi-user dashboards
 ### 🌱 **Tervive**
 **AQI-Based Health Risk Predictor**
 
-<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-FFD700?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-Mobile_App-FF6B6B?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-ML-powered platform predicting air-quality health risks with decentralized plant seller marketplace. Represented India at international competition.
+ML-powered platform predicting air-quality health risks with decentralized plant seller marketplace. Represented India at IEEE YESSIT'24 international competition in Tunisia.
 
-**Stack:** `Python` `Firebase` `React Native` `ML`
+**Stack:** `Python` `Firebase` `React Native` `Machine Learning` `Data Analytics`
 
-[📂 Repository](https://github.com/adityajhakumar/terviveapp)
+<a href="https://github.com/adityajhakumar/terviveapp">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 ---
 
 ### 🤖 **LumiChat**
-**Multi-Model AI Orchestration**
+**Multi-Model AI Orchestration Platform**
 
-<img src="https://img.shields.io/badge/Models-22+-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-AI_Platform-orange?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Models-22+-A855F7?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-AI_Platform-F59E0B?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Unified interface for 22+ AI models. Helps students overcome model limitations & documentation issues. Supports multi-modal inputs.
+Unified interface accessing 22+ AI models. Helps students overcome model limitations & documentation issues. Supports text, images, and knowledge-based prompts.
 
-**Stack:** `Python` `API Integration` `Multi-modal AI`
+**Stack:** `Python` `API Integration` `Multi-modal AI` `React` `LLM Orchestration`
 
-[📂 Repository](https://github.com/adityajhakumar/LumiChat)
+<a href="https://github.com/adityajhakumar/LumiChat">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 ---
 
 ### 🛡️ **Tracing Source of Attack**
 **Cybersecurity Analysis Tool**
 
-<img src="https://img.shields.io/badge/Type-Security-red?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Type-Security_Tool-EF4444?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/GUI-Python-3B82F6?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Real-time IP tracing with geolocation mapping and anomaly detection. Simulated attack analysis.
+Real-time IP tracing with geolocation mapping and anomaly detection. Features simulated attack analysis and network forensics.
 
-**Stack:** `Python` `Networking` `GUI` `Security`
+**Stack:** `Python` `Networking` `GUI (Tkinter)` `Security` `Geolocation API`
 
-[📂 Repository](https://github.com/adityajhakumar/TRACING_HACKER)
+<a href="https://github.com/adityajhakumar/TRACING_HACKER">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -423,55 +466,70 @@ Real-time IP tracing with geolocation mapping and anomaly detection. Simulated a
 ### 📊 **AnalyzeX**
 **AI Business Intelligence Agent**
 
-<img src="https://img.shields.io/badge/Cost_Savings-80%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Privacy-First-blue?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Cost_Savings-80%25-10B981?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Privacy-First-6366F1?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-No-code platform for automated reports & dashboards. Data never leaves local system. Enables non-technical users to query datasets via AI.
+No-code platform generating automated reports & dashboards. Data never leaves local system. Enables non-technical users to query datasets via AI.
 
-**Stack:** `Python` `AI Agents` `Data Privacy` `Analytics`
+**Stack:** `Python` `AI Agents` `Data Privacy` `Analytics` `Natural Language Processing`
 
-[📂 Repository](https://github.com/adityajhakumar/AnalyzeX)
+<a href="https://github.com/adityajhakumar/AnalyzeX">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 ---
 
 ### 🌿 **PlantNetLite**
-**Plant Disease Detection**
+**Plant Disease Detection System**
 
-<img src="https://img.shields.io/badge/Accuracy-97%25-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-Computer_Vision-blue?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Accuracy-97%25-22C55E?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-Computer_Vision-EC4899?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Deep learning tool for detecting plant diseases with high accuracy. Real-time detection system.
+Deep learning tool detecting plant diseases with 97% accuracy. Real-time detection system for agricultural applications.
 
-**Stack:** `TensorFlow` `OpenCV` `CNN` `Python`
+**Stack:** `TensorFlow` `OpenCV` `CNN` `Python` `Image Processing`
 
-[📂 Repository](https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP)
+<a href="https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 ---
 
 ### 🎭 **DARKENSION**
 **Dark Pattern Detection Extension**
 
-<img src="https://img.shields.io/badge/Type-Browser_Extension-yellow?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Type-Browser_Extension-FACC15?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Protection-UX_Manipulation-F97316?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Identifies deceptive UX patterns with integrated ad-blocker. Protects users from manipulative design.
+Identifies deceptive UX patterns with integrated ad-blocker. Protects users from manipulative design practices.
 
-**Stack:** `JavaScript` `Browser API` `ML` `UX`
+**Stack:** `JavaScript` `Browser API` `Machine Learning` `UX Analysis`
 
-[📂 Repository](https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION)
+<a href="https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Author Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="50"> Author's Corner
+## <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="55"> Author's Corner
 
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="180"/>
 
 ### 📚 Published Science Fiction Author
 
@@ -479,37 +537,42 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 *Exploring futures where technology meets humanity*
 
+<br>
+
 <a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
-  <img src="https://img.shields.io/badge/📖_Read_My_Novels-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Author Page"/>
+  <img src="https://img.shields.io/badge/📖_Read_My_Novels-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1b27" alt="Author Page"/>
 </a>
 
 </div>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Connect Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Let's Build Together
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Build Together
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Open+to+AI+%26+ML+Collaborations;Product+Ideas+%26+Startup+Discussions;Autonomous+Systems+Projects;Sci-Fi+%26+Tech+Conversations" alt="Collaboration"/>
+**💡 Open to discuss:**
+`AI & ML Projects` • `Product Ideas` • `Startup Collaborations` • `Autonomous Systems` • `Sci-Fi & Tech`
 
 <br><br>
 
 <p align="center">
 <a href="mailto:adityajha29092004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/adityajhakumar">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
 </a>
 </p>
 
@@ -517,20 +580,60 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 <br>
 
+<!-- Philosophy Section -->
 <div align="center">
 
 ### 💭 Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=The+only+limit+to+innovation+is+the+edge+of+your+imagination;...and+maybe+a+few+memory+leaks+%F0%9F%92%BB;Fork+my+repos%2C+not+my+pizza+%F0%9F%8D%95;Code+like+an+engineer.+Dream+like+a+writer.+Build+like+a+founder." alt="Philosophy"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+<br>
+
+**"The only limit to innovation is the edge of your imagination"**
+
+**"...and maybe a few memory leaks 💻"**
+
+<br>
+
+<img src="https://img.shields.io/badge/🍕_Fork_My_Repos-Not_My_Pizza-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
+
+<br><br>
+
+**Code like an engineer • Dream like a writer • Build like a founder**
 
 </div>
 
 <br>
 
+<!-- Snake Animation -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<br>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<!-- Extra Animations -->
+<div align="center">
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+<br>
+
+**⚡ Fun Fact:** I debug bugs faster than my coffee gets cold ☕
+
+<br><br>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
 
 </div>
