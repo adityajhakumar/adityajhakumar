@@ -19,11 +19,6 @@
   <img src="https://img.shields.io/badge/💻_Full_Stack-AI_&_ML_Engineer-95E1D3?style=for-the-badge&labelColor=1a1b27&color=95E1D3"/>
 </p>
 
-<!-- Matrix Rain Effect -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
-</p>
-
 <!-- 3D Rotating Cube Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" width="48%"/>
@@ -66,6 +61,121 @@
 </h2>
 
 </div>
+
+<br>
+
+<!-- Interactive Mini Games Section -->
+<div align="center">
+
+## 🎮 Interactive Mini Games - Take a Break!
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🕹️+Click+to+Play+•+Beat+My+High+Score!;🎯+Challenge+Yourself+•+Have+Fun!" alt="Games"/>
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🐍 **Snake Game**
+<a href="https://g.co/kgs/xrJ4GJ8">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg3YzN6eGN6Nm5rZWx3bGJ6NHV6N3hoZnB6cjB0cGt6cGNhOWNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHU423VpiS2ha/giphy.gif" width="150"/>
+</a>
+<br><br>
+**🎮 Play Snake**
+<br>
+<sub>Classic retro gaming</sub>
+<br><br>
+<a href="https://www.google.com/fbx?fbx=snake_arcade">
+  <img src="https://img.shields.io/badge/Play_Now-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Snake"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🏓 **Pong Game**
+<img src="https://media.giphy.com/media/3oEdv5Ov7Y2Z4sBUWs/giphy.gif" width="150"/>
+<br><br>
+**🎾 Play Pong**
+<br>
+<sub>Retro arcade action</sub>
+<br><br>
+<a href="https://www.ponggame.org/">
+  <img src="https://img.shields.io/badge/Play_Now-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Pong"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🦕 **Dino Run**
+<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="150"/>
+<br><br>
+**🦖 Play Dino**
+<br>
+<sub>Chrome's offline game</sub>
+<br><br>
+<a href="https://chromedino.com/">
+  <img src="https://img.shields.io/badge/Play_Now-4ECDC4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Dino"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🧩 **2048 Puzzle**
+<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150"/>
+<br><br>
+**🎯 Play 2048**
+<br>
+<sub>Number puzzle challenge</sub>
+<br><br>
+<a href="https://play2048.co/">
+  <img src="https://img.shields.io/badge/Play_Now-95E1D3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play 2048"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🎮 **Pac-Man**
+<img src="https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif" width="150"/>
+<br><br>
+**👻 Play Pac-Man**
+<br>
+<sub>Iconic arcade classic</sub>
+<br><br>
+<a href="https://www.google.com/logos/2010/pacman10-i.html">
+  <img src="https://img.shields.io/badge/Play_Now-FFD93D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Pac-Man"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🧱 **Tetris**
+<img src="https://media.giphy.com/media/3o7WIH7gOExxhLF1Cw/giphy.gif" width="150"/>
+<br><br>
+**🎲 Play Tetris**
+<br>
+<sub>Classic block puzzle</sub>
+<br><br>
+<a href="https://tetris.com/play-tetris">
+  <img src="https://img.shields.io/badge/Play_Now-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Tetris"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**🏆 Challenge:** Beat my high scores and let me know! Tweet @adityakjha
+
+</div>
+
+<br>
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
@@ -238,9 +348,6 @@ me.say_hi()
 
 <!-- Trophy Showcase -->
 <img src="https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies"/>
-
-<!-- WakaTime Stats (if you use it) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityajhakumar&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="WakaTime"/> -->
 
 </div>
 
@@ -563,11 +670,7 @@ ML-powered platform predicting air-quality health risks with decentralized plant
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
----
-
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <div align="center">
@@ -593,8 +696,6 @@ Unified interface accessing 22+ AI models. Helps students overcome model limitat
 <a href="https://github.com/adityajhakumar/LumiChat">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
----
 
 </td>
 </tr>
@@ -625,11 +726,7 @@ Real-time IP tracing with geolocation mapping and anomaly detection. Features si
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
----
-
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <div align="center">
@@ -655,8 +752,6 @@ No-code platform generating automated reports & dashboards. Data never leaves lo
 <a href="https://github.com/adityajhakumar/AnalyzeX">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
----
 
 </td>
 </tr>
@@ -687,11 +782,7 @@ Deep learning tool detecting plant diseases with 97% accuracy. Real-time detecti
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
----
-
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <div align="center">
@@ -945,17 +1036,6 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 </div>
 
 <br>
-
-<!-- Spotify Now Playing (if connected) -->
-<!-- Uncomment if you want to add Spotify integration
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true" alt="Spotify Now Playing"/>
-
-</div>
-
-<br>
--->
 
 <!-- Footer Badges -->
 <div align="center">
