@@ -726,49 +726,29 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 <br>
 
+
 <!-- Philosophy Section -->
 <div align="center">
 
-## 💭 Philosophy
+### 💭 Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=✨+The+only+limit+to+innovation;is+the+edge+of+your+imagination;...and+maybe+a+few+memory+leaks+💻" alt="Philosophy"/>
-
-<br>
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>💻 Code like an Engineer</h3>
-<sub>Build with precision</sub>
-</td>
-<td align="center" width="33%">
-<h3>✍️ Dream like a Writer</h3>
-<sub>Imagine the impossible</sub>
-</td>
-<td align="center" width="33%">
-<h3>🚀 Build like a Founder</h3>
-<sub>Ship and iterate</sub>
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <br>
 
-<div align="center">
+**"The only limit to innovation is the edge of your imagination"**
+
+**"...and maybe a few memory leaks 💻"**
+
+<br>
 
 <img src="https://img.shields.io/badge/🍕_Fork_My_Repos-Not_My_Pizza-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
 
 <br><br>
 
-**"In a world where AI writes code, engineers who write stories will build the future"**
+**Code like an engineer • Dream like a writer • Build like a founder**
 
 </div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
