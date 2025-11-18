@@ -442,20 +442,17 @@ me.say_hi()
 
 <br>
 
-<!-- Professional Journey -->
+<!-- Professional Experience -->
 <div align="center">
 
-## 💼 Professional Journey
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=🌊+NIOT+Intern+→+🛰️+Autonomous+Navigation;📱+Samsung+PRISM+→+🤖+96%25+Accuracy+Model;🎯+VITC-MMC+Secretary+→+👥+500%2B+Attendees" alt="Timeline"/>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
 
 </div>
-
-<br>
 
 <details open>
 <summary><b>🌊 Ocean Electronics Intern @ NIOT</b> • <i>May 2025 – Jun 2025</i></summary>
 <br>
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif">
 
 **🎯 Mission:** Autonomous Surface Vehicle Engineering
 
@@ -467,13 +464,13 @@ me.say_hi()
 
 **🔧 Tech Stack:** `ESP32` `Python` `C++` `Kalman Filters` `Navigation Algorithms`
 
-<img src="https://progress-bar.dev/100/?title=Project%20Completion&width=400&color=00D9FF"/>
-
+<br clear="right">
 </details>
 
 <details open>
 <summary><b>📱 PRISM Intern @ Samsung</b> • <i>Jul 2024 – Dec 2024</i></summary>
 <br>
+<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 **🎯 Mission:** Human Activity Recognition AI Model
 
@@ -485,13 +482,13 @@ me.say_hi()
 
 **🔧 Tech Stack:** `PyTorch` `TensorFlow` `Computer Vision` `Model Optimization`
 
-<img src="https://progress-bar.dev/96/?title=Model%20Accuracy&width=400&color=FF6B6B"/>
-
+<br clear="right">
 </details>
 
 <details open>
 <summary><b>🎯 Secretary @ VITC-MMC</b> • <i>Jul 2024 – Jul 2025</i></summary>
 <br>
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif">
 
 **🎯 Mission:** Leading Student Innovation & Content
 
@@ -503,12 +500,10 @@ me.say_hi()
 
 **📈 Impact:** `500+ attendees per event` `Published novel` `Increased engagement`
 
-<img src="https://progress-bar.dev/100/?title=Leadership%20Impact&width=400&color=4ECDC4"/>
-
+<br clear="right">
 </details>
 
-<br>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -516,132 +511,127 @@ me.say_hi()
 <!-- Featured Projects -->
 <div align="center">
 
-## 🎯 Featured Projects
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="40"> Featured Projects
 
 </div>
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌱 **Tervive**
 **AQI-Based Health Risk Predictor**
 
-<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-FFD700?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-FFD700?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-Mobile_App-FF6B6B?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-ML-powered platform predicting air-quality health risks with decentralized plant seller marketplace. Represented India at IEEE YESSIT'24 in Tunisia.
+ML-powered platform predicting air-quality health risks with decentralized plant seller marketplace. Represented India at IEEE YESSIT'24 international competition in Tunisia.
 
-**Stack:** `Python` `Firebase` `React Native` `ML`
-
-<img src="https://progress-bar.dev/100/?title=Tunisia%20Finalist&width=300&color=FFD700"/>
+**Stack:** `Python` `Firebase` `React Native` `Machine Learning` `Data Analytics`
 
 <a href="https://github.com/adityajhakumar/terviveapp">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</td>
-<td width="50%">
+---
 
 ### 🤖 **LumiChat**
-**Multi-Model AI Orchestration**
+**Multi-Model AI Orchestration Platform**
 
-<img src="https://img.shields.io/badge/Models-22+-A855F7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Type-AI_Platform-F59E0B?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Models-22+-A855F7?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-AI_Platform-F59E0B?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Unified interface accessing 22+ AI models. Supports text, images, and knowledge-based prompts.
+Unified interface accessing 22+ AI models. Helps students overcome model limitations & documentation issues. Supports text, images, and knowledge-based prompts.
 
-**Stack:** `Python` `API Integration` `React` `LLM`
-
-<img src="https://progress-bar.dev/100/?title=AI%20Models&width=300&color=A855F7"/>
+**Stack:** `Python` `API Integration` `Multi-modal AI` `React` `LLM Orchestration`
 
 <a href="https://github.com/adityajhakumar/LumiChat">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🛡️ **Tracing Source of Attack**
 **Cybersecurity Analysis Tool**
 
-<img src="https://img.shields.io/badge/Type-Security_Tool-EF4444?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Type-Security_Tool-EF4444?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/GUI-Python-3B82F6?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Real-time IP tracing with geolocation mapping and anomaly detection.
+Real-time IP tracing with geolocation mapping and anomaly detection. Features simulated attack analysis and network forensics.
 
-**Stack:** `Python` `Networking` `Security`
-
-<img src="https://progress-bar.dev/100/?title=Security&width=300&color=EF4444"/>
+**Stack:** `Python` `Networking` `GUI (Tkinter)` `Security` `Geolocation API`
 
 <a href="https://github.com/adityajhakumar/TRACING_HACKER">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 **AnalyzeX**
 **AI Business Intelligence Agent**
 
-<img src="https://img.shields.io/badge/Cost_Savings-80%25-10B981?style=flat-square"/>
-<img src="https://img.shields.io/badge/Privacy-First-6366F1?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Cost_Savings-80%25-10B981?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Privacy-First-6366F1?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-No-code platform generating automated reports. Data never leaves local system.
+No-code platform generating automated reports & dashboards. Data never leaves local system. Enables non-technical users to query datasets via AI.
 
-**Stack:** `Python` `AI Agents` `Analytics`
-
-<img src="https://progress-bar.dev/80/?title=Cost%20Savings&width=300&color=10B981"/>
+**Stack:** `Python` `AI Agents` `Data Privacy` `Analytics` `Natural Language Processing`
 
 <a href="https://github.com/adityajhakumar/AnalyzeX">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 🌿 **PlantNetLite**
-**Plant Disease Detection**
+**Plant Disease Detection System**
 
-<img src="https://img.shields.io/badge/Accuracy-97%25-22C55E?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Accuracy-97%25-22C55E?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Type-Computer_Vision-EC4899?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Deep learning tool detecting plant diseases with 97% accuracy.
+Deep learning tool detecting plant diseases with 97% accuracy. Real-time detection system for agricultural applications.
 
-**Stack:** `TensorFlow` `OpenCV` `CNN`
-
-<img src="https://progress-bar.dev/97/?title=Accuracy&width=300&color=22C55E"/>
+**Stack:** `TensorFlow` `OpenCV` `CNN` `Python` `Image Processing`
 
 <a href="https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</td>
-<td width="50%">
+---
 
 ### 🎭 **DARKENSION**
-**Dark Pattern Detection**
+**Dark Pattern Detection Extension**
 
-<img src="https://img.shields.io/badge/Type-Browser_Extension-FACC15?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/Type-Browser_Extension-FACC15?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Protection-UX_Manipulation-F97316?style=flat-square&labelColor=1a1b27"/>
+</p>
 
-Identifies deceptive UX patterns with integrated ad-blocker.
+Identifies deceptive UX patterns with integrated ad-blocker. Protects users from manipulative design practices.
 
-**Stack:** `JavaScript` `Browser API` `ML`
-
-<img src="https://progress-bar.dev/100/?title=Protection&width=300&color=FACC15"/>
+**Stack:** `JavaScript` `Browser API` `Machine Learning` `UX Analysis`
 
 <a href="https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<br>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -649,34 +639,37 @@ Identifies deceptive UX patterns with integrated ad-blocker.
 <!-- Author Section -->
 <div align="center">
 
-## 📚 Author's Corner
+## <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="55"> Author's Corner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=📚+Published+Science+Fiction+Author;5+Novels+Published+via+Amazon+KDP;✨+Exploring+AI+%2B+Human+Futures" alt="Author Stats"/>
+<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="180"/>
 
-<br>
+### 📚 Published Science Fiction Author
 
-### **Where Technology Meets Humanity**
+**5 Novels Published** via Amazon KDP
 
-*Writing science fiction isn't just about imagining the future—it's about understanding the present through a different lens. Each story explores the ethical boundaries of AI, consciousness, and what it means to be human in an age of intelligent machines.*
-
-<br>
-
-<img src="https://progress-bar.dev/100/?title=5%20Novels%20Published&width=400&color=FFD93D"/>
+*Exploring futures where technology meets humanity*
 
 <br>
 
 <a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
-  <img src="https://img.shields.io/badge/📖_Read_My_Novels-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Author Page"/>
+  <img src="https://img.shields.io/badge/📖_Read_My_Novels-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1b27" alt="Author Page"/>
 </a>
 
 </div>
 
-<br>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
+<!-- Connect Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Build Together
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+
+<br>
 <!-- Connect Section -->
 <div align="center">
 
