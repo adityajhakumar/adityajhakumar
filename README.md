@@ -643,7 +643,10 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 ## 🎮 Interactive Challenge - Click to Play!
 
-<img src="https://cdn.dribbble.com/userupload/42346351/file/original-3861e12764d32a1a5ad6e907674fe7a2.gif"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
+<br>
+<img src="https://cdn.dribbble.com/userupload/42346351/file/original-3861e12764d32a1a5ad6e907674fe7a2.gif" width="500">
+
 
 </div>
 
