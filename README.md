@@ -643,7 +643,7 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 ## 🎮 Interactive Challenge - Click to Play!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🕹️+Click+the+Buttons+to+Play+Games!;🎯+Take+a+Break+•+Have+Some+Fun!" alt="Games"/>
+<img src="https://cdn.dribbble.com/userupload/42346351/file/original-3861e12764d32a1a5ad6e907674fe7a2.gif"/>
 
 </div>
 
