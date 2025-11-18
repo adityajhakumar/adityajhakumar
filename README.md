@@ -295,68 +295,64 @@ me.say_hi()
 
 <br>
 
-<!-- Hall of Fame -->
+
+<!-- Hall of Fame with Animated Icons -->
 <div align="center">
 
-## 🏆 Hall of Fame
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Hall of Fame
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100"/>
+<br><br>
 <img src="https://img.shields.io/badge/IEEE_YESSIT'24-🏆_Finalist-FFD700?style=for-the-badge&labelColor=1a1b27"/>
-
-**🌍 International Stage**
-
-Represented India in Tunisia  
-Climate Health Innovation
-
-<img src="https://progress-bar.dev/100/?title=Achievement&width=200&color=FFD700"/>
-
+<br><br>
+<b>🌍 International Stage</b>
+<br>
+<sub>Represented India in Tunisia</sub>
+<br>
+<sub>Climate Health Innovation</sub>
 </td>
 <td align="center" width="25%">
-
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100"/>
+<br><br>
 <img src="https://img.shields.io/badge/Product_Hunt-🚀_3_Launches-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
-
-**📈 19,700+ Users**
-
-Combined Day 1 Success  
-Top 10 Global Rankings
-
-<img src="https://progress-bar.dev/100/?title=Impact&width=200&color=FF6B6B"/>
-
+<br><br>
+<b>📈 19,700+ Users</b>
+<br>
+<sub>Combined Day 1 Success</sub>
+<br>
+<sub>Top 10 Global Rankings</sub>
 </td>
 <td align="center" width="25%">
-
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
+<br><br>
 <img src="https://img.shields.io/badge/Samsung_PRISM-🎯_Finalist-4169E1?style=for-the-badge&labelColor=1a1b27"/>
-
-**🤖 96% Accuracy**
-
-HAR Model Achievement  
-Mobile Optimized AI
-
-<img src="https://progress-bar.dev/96/?title=Accuracy&width=200&color=4169E1"/>
-
+<br><br>
+<b>🤖 96% Accuracy</b>
+<br>
+<sub>HAR Model Achievement</sub>
+<br>
+<sub>Mobile Optimized AI</sub>
 </td>
 <td align="center" width="25%">
-
+<img src="https://media.giphy.com/media/26tPqTOGf3MMAo7Cw/giphy.gif" width="100"/>
+<br><br>
 <img src="https://img.shields.io/badge/NPTEL_IIT-💯_100/100-32CD32?style=for-the-badge&labelColor=1a1b27"/>
-
-**🎓 Perfect Score**
-
-Wildlife Ecology Course  
-IIT Madras Certified
-
-<img src="https://progress-bar.dev/100/?title=Score&width=200&color=32CD32"/>
-
+<br><br>
+<b>🎓 Perfect Score</b>
+<br>
+<sub>Wildlife Ecology Course</sub>
+<br>
+<sub>IIT Madras Certified</sub>
 </td>
 </tr>
 </table>
 
-<br>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
