@@ -67,10 +67,10 @@
 <!-- Interactive Mini Games Section -->
 <div align="center">
 
-## 🎮 Interactive Mini Games - Take a Break!
+## 🎮 Interactive Challenge - Click to Play!
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🕹️+Click+to+Play+•+Beat+My+High+Score!;🎯+Challenge+Yourself+•+Have+Fun!" alt="Games"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🕹️+Click+the+Images+to+Play+Games!;🎯+Take+a+Break+•+Have+Some+Fun!" alt="Games"/>
 </p>
 
 <table>
@@ -78,44 +78,48 @@
 <td align="center" width="33%">
 
 ### 🐍 **Snake Game**
-<a href="https://g.co/kgs/xrJ4GJ8">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg3YzN6eGN6Nm5rZWx3bGJ6NHV6N3hoZnB6cjB0cGt6cGNhOWNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHU423VpiS2ha/giphy.gif" width="150"/>
+<a href="https://playsnake.org/" target="_blank">
+  <img src="https://media.giphy.com/media/kHU423VpiS2ha/giphy.gif" width="200" height="200"/>
 </a>
 <br><br>
-**🎮 Play Snake**
+**Click above to play!**
 <br>
-<sub>Classic retro gaming</sub>
+<sub>🎮 Classic arcade snake</sub>
 <br><br>
-<a href="https://www.google.com/fbx?fbx=snake_arcade">
-  <img src="https://img.shields.io/badge/Play_Now-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Snake"/>
-</a>
-
-</td>
-<td align="center" width="33%">
-
-### 🏓 **Pong Game**
-<img src="https://media.giphy.com/media/3oEdv5Ov7Y2Z4sBUWs/giphy.gif" width="150"/>
-<br><br>
-**🎾 Play Pong**
-<br>
-<sub>Retro arcade action</sub>
-<br><br>
-<a href="https://www.ponggame.org/">
-  <img src="https://img.shields.io/badge/Play_Now-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Pong"/>
+<a href="https://playsnake.org/" target="_blank">
+  <img src="https://img.shields.io/badge/🕹️_PLAY_SNAKE-00D9FF?style=for-the-badge&logoColor=white" alt="Play Snake"/>
 </a>
 
 </td>
 <td align="center" width="33%">
 
 ### 🦕 **Dino Run**
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="150"/>
+<a href="https://chromedino.com/" target="_blank">
+  <img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="200" height="200"/>
+</a>
 <br><br>
-**🦖 Play Dino**
+**Click above to play!**
 <br>
-<sub>Chrome's offline game</sub>
+<sub>🦖 Chrome's offline game</sub>
 <br><br>
-<a href="https://chromedino.com/">
-  <img src="https://img.shields.io/badge/Play_Now-4ECDC4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Dino"/>
+<a href="https://chromedino.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🦖_PLAY_DINO-4ECDC4?style=for-the-badge&logoColor=white" alt="Play Dino"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🧩 **2048 Puzzle**
+<a href="https://play2048.co/" target="_blank">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="200" height="200"/>
+</a>
+<br><br>
+**Click above to play!**
+<br>
+<sub>🎯 Addictive number puzzle</sub>
+<br><br>
+<a href="https://play2048.co/" target="_blank">
+  <img src="https://img.shields.io/badge/🎲_PLAY_2048-95E1D3?style=for-the-badge&logoColor=white" alt="Play 2048"/>
 </a>
 
 </td>
@@ -123,43 +127,49 @@
 <tr>
 <td align="center" width="33%">
 
-### 🧩 **2048 Puzzle**
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150"/>
-<br><br>
-**🎯 Play 2048**
-<br>
-<sub>Number puzzle challenge</sub>
-<br><br>
-<a href="https://play2048.co/">
-  <img src="https://img.shields.io/badge/Play_Now-95E1D3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play 2048"/>
-</a>
-
-</td>
-<td align="center" width="33%">
-
 ### 🎮 **Pac-Man**
-<img src="https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif" width="150"/>
+<a href="https://pacman.com/en/" target="_blank">
+  <img src="https://media.giphy.com/media/mGK1g88HZRa2FlKGbz/giphy.gif" width="200" height="200"/>
+</a>
 <br><br>
-**👻 Play Pac-Man**
+**Click above to play!**
 <br>
-<sub>Iconic arcade classic</sub>
+<sub>👻 Iconic arcade legend</sub>
 <br><br>
-<a href="https://www.google.com/logos/2010/pacman10-i.html">
-  <img src="https://img.shields.io/badge/Play_Now-FFD93D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Pac-Man"/>
+<a href="https://pacman.com/en/" target="_blank">
+  <img src="https://img.shields.io/badge/👻_PLAY_PACMAN-FFD93D?style=for-the-badge&logoColor=white" alt="Play Pac-Man"/>
 </a>
 
 </td>
 <td align="center" width="33%">
 
 ### 🧱 **Tetris**
-<img src="https://media.giphy.com/media/3o7WIH7gOExxhLF1Cw/giphy.gif" width="150"/>
+<a href="https://tetris.com/play-tetris" target="_blank">
+  <img src="https://media.giphy.com/media/3o7WIH7gOExxhLF1Cw/giphy.gif" width="200" height="200"/>
+</a>
 <br><br>
-**🎲 Play Tetris**
+**Click above to play!**
 <br>
-<sub>Classic block puzzle</sub>
+<sub>🧱 Block stacking classic</sub>
 <br><br>
-<a href="https://tetris.com/play-tetris">
-  <img src="https://img.shields.io/badge/Play_Now-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Tetris"/>
+<a href="https://tetris.com/play-tetris" target="_blank">
+  <img src="https://img.shields.io/badge/🧱_PLAY_TETRIS-A855F7?style=for-the-badge&logoColor=white" alt="Play Tetris"/>
+</a>
+
+</td>
+<td align="center" width="33%">
+
+### 🏓 **Pong**
+<a href="https://pong-2.com/" target="_blank">
+  <img src="https://media.giphy.com/media/3oEdv5Ov7Y2Z4sBUWs/giphy.gif" width="200" height="200"/>
+</a>
+<br><br>
+**Click above to play!**
+<br>
+<sub>🏓 Retro table tennis</sub>
+<br><br>
+<a href="https://pong-2.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🏓_PLAY_PONG-FF6B6B?style=for-the-badge&logoColor=white" alt="Play Pong"/>
 </a>
 
 </td>
@@ -168,7 +178,11 @@
 
 <br>
 
-**🏆 Challenge:** Beat my high scores and let me know! Tweet @adityakjha
+**🏆 Pro Tip:** Click on the animated GIFs or buttons above to launch the games in a new tab!
+
+<br>
+
+**🎯 High Score Challenge:** Beat my scores and tag me on social media!
 
 </div>
 
