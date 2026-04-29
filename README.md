@@ -1,564 +1,535 @@
+<!-- ============================================================ -->
+<!--              ⚡ NEURAL INTERFACE v2.4.0 ⚡                   -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<!-- Animated Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Kumar%20Jha&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Engineer%20|%20AI%20Builder%20|%20Product%20Launcher%20|%20Sci-Fi%20Author%20🌟&descAlignY=55&descAlign=50&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
 
-<!-- Animated Text Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/💡_Building_AI_Products-That_Matter-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
-  <img src="https://img.shields.io/badge/🏆_19,700+_Users-Across_3_Launches-FF6B6B?style=for-the-badge&labelColor=1a1b27&color=FF6B6B"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍_IEEE_YESSIT-International_Finalist-4ECDC4?style=for-the-badge&labelColor=1a1b27&color=4ECDC4"/>
-  <img src="https://img.shields.io/badge/💻_Full_Stack-AI_&_ML_Engineer-95E1D3?style=for-the-badge&labelColor=1a1b27&color=95E1D3"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📚_Published-Science_Fiction_Author-FFD93D?style=for-the-badge&labelColor=1a1b27&color=FFD93D"/>
-  <img src="https://img.shields.io/badge/☕_Turning_Coffee-Into_Code-A8E6CF?style=for-the-badge&labelColor=1a1b27&color=A8E6CF"/>
-</p>
-
-<br>
-
-<!-- Animated Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adityajha29092004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
-  </a>
-  <a href="https://github.com/adityajhakumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-  <a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
-    <img src="https://img.shields.io/badge/Author_Page-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=FF9900" alt="Amazon"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=adityajhakumar&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views"/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Glitch Effect Text -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  Welcome to My Digital Workspace
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:A855F7&height=220&section=header&text=ADITYA%20KUMAR%20JHA&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=◈%20AI%20ARCHITECT%20◈%20FOUNDER%20◈%20SYSTEM%20ENGINEER%20◈%20SCI-FI%20CHRONICLER%20◈&descAlignY=58&descSize=14&descFontColor=FFFFFF"/>
 
 </div>
 
-<br>
-
-<!-- About Me Section with Animation -->
+<!-- BOOT SEQUENCE -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
-
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<div align="left">
-
-```python
-class AdityaKumarJha:
-    def __init__(self):
-        self.username = "adityajhakumar"
-        self.role = "ECE Engineer & AI Product Builder"
-        self.location = "Chennai, India 🇮🇳"
-        self.education = "VIT Chennai (B.Tech ECE)"
-        self.currently = "Building AI-powered solutions"
-        self.fun_fact = "I turn ☕ into 💻"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = AdityaKumarJha()
-me.say_hi()
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                             ▓
+▓   > NEURAL_OS v2.4.0 — BOOTING...                          ▓
+▓   > PLAYER IDENTITY   : ADITYA KUMAR JHA                   ▓
+▓   > CLASS             : AI ARCHITECT + FOUNDER             ▓
+▓   > GUILD             : LUMICHATS [LEADER]                 ▓
+▓   > BASE              : CHENNAI, INDIA 🇮🇳                  ▓
+▓   > STATUS            : ONLINE ● BUILDING                  ▓
+▓                                                             ▓
+▓   > ALL SYSTEMS OPERATIONAL. WELCOME, TRAVELER.            ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-<br>
+</div>
 
-**💼 Current Focus:**
-- 🔭 Working on: Next-gen AI product launches
-- 🌱 Learning: Advanced RL & Embedded ML
-- 👯 Open to: AI/ML collaborations & startup ideas
-- 💬 Ask me about: Machine Learning, Product Building, Sci-Fi Writing
-- 📫 Reach me: adityajha29092004@gmail.com
+<!-- STATUS BADGES -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/◈_STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_XP-19%2C700%2B_USERS-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🏛️_GUILD-LUMICHATS_CEO-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🌍_ARENA-IEEE_YESSIT_FINALIST-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
+  <img src="https://img.shields.io/badge/⬡_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+</a>
+<a href="mailto:adityajha29092004@gmail.com">
+  <img src="https://img.shields.io/badge/⬡_MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+</a>
+<a href="https://github.com/adityajhakumar">
+  <img src="https://img.shields.io/badge/⬡_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+</a>
+<a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
+  <img src="https://img.shields.io/badge/⬡_CHRONICLES-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=FF9900"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=adityajhakumar&label=◈+VISITORS+ENTERED&color=A855F7&style=for-the-badge"/>
 
 </div>
+
+<br>
+
+<!-- SECTION DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2"/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             ◈ PLAYER PROFILE ◈              -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ &nbsp;PLAYER PROFILE&nbsp; ◈
+
+<img src="https://img.shields.io/badge/[ LOADING_CHARACTER_DATA... ]-00D9FF?style=flat-square&labelColor=0D1117"/>
+
+</div>
+
+<br>
+
+<img align="right" alt="Hacking GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```python
+# ╔══════════════════════════════════════╗
+# ║      CHARACTER SELECT SCREEN         ║
+# ╚══════════════════════════════════════╝
+
+class Player:
+    def __init__(self):
+        self.name       = "Aditya Kumar Jha"
+        self.handle     = "@adityajhakumar"
+        self.class_     = "AI Architect + Founder"
+        self.base       = "Chennai, India 🇮🇳"
+        self.academy    = "VIT Chennai — B.Tech ECE"
+        self.guild      = "LumiChats [LEADER]"
+        self.status     = "🟢 BUILDING NEXT-GEN AI"
+        self.fun_fact   = "☕ → 💻 (unlimited mana)"
+
+    def active_quests(self):
+        return [
+            "🔭 Scaling LumiChats globally",
+            "🌱 Mastering Advanced RL + Embedded ML",
+            "👯 Recruiting AI/ML co-founders",
+            "📚 Writing Novel #6",
+        ]
+
+hero = Player()
+```
 
 <br clear="both">
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-
-<!-- Tech Stack Section with Pulse Animation -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> Tech Stack & Skills
-
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c&theme=dark" alt="Languages"/>
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### ☁️ Cloud & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=aws,firebase,supabase&theme=dark" alt="Cloud"/>
-</p>
-
-### 📱 Mobile & Web
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&theme=dark" alt="Web"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-</p>
-
-### 🛠️ Tools & Embedded
-<p>
-<img src="https://skillicons.dev/icons?i=git,vscode,arduino,linux&theme=dark" alt="Tools"/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
-</p>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- GitHub Stats with Animation -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40" alt="Git"/> GitHub Analytics
-
-</div>
+<!-- ═══════════════════════════════════════════ -->
+<!--              ◈ BATTLE STATS ◈               -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B6B" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=adityajhakumar&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-</div>
 
-<br>
+## ◈ &nbsp;BATTLE STATS&nbsp; ◈
 
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-</div>
+<img src="https://img.shields.io/badge/[ FETCHING_COMBAT_RECORDS... ]-FF6B6B?style=flat-square&labelColor=0D1117"/>
 
-<br>
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B6B&custom_title=⚔️+COMBAT+RECORD" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=adityajhakumar&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityajhakumar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&custom_title=🧬+KNOWN+LANGUAGES" alt="Top Languages"/>
+
+<br><br>
 
 <!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajhakumar&custom_title=⚡+NEURAL+ACTIVITY+FEED&bg_color=0D1117&color=A855F7&line=00D9FF&point=FF6B6B&area=true&hide_border=true&area_color=00D9FF" alt="Activity Graph" width="95%"/>
+
+<br><br>
+
+<!-- Trophy Case -->
+<img src="https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=Commits,Stars,Followers,Repositories,PullRequest,Issues,MultiLanguage" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              ◈ ABILITY TREE ◈               -->
+<!-- ═══════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityajhakumar&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" width="95%"/>
+
+## ◈ &nbsp;ABILITY TREE&nbsp; ◈
+
+<img src="https://img.shields.io/badge/[ SCANNING_EQUIPPED_SKILLS... ]-4ECDC4?style=flat-square&labelColor=0D1117"/>
+
 </div>
 
 <br>
-
-<!-- Trophy Animation -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityajhakumar&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies"/>
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Hall of Fame with Animated Icons -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Hall of Fame
-
-</div>
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/IEEE_YESSIT'24-🏆_Finalist-FFD700?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>🌍 International Stage</b>
-<br>
-<sub>Represented India in Tunisia</sub>
-<br>
-<sub>Climate Health Innovation</sub>
+<td align="center" width="50%">
+
+**⚔️ CORE LANGUAGES**
+```
+PYTHON   ████████████████████  LVL 99
+C++      ████████████████░░░░  LVL 80
+JAVA     ████████████░░░░░░░░  LVL 60
+C        ████████████░░░░░░░░  LVL 60
+```
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c&theme=dark"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/Product_Hunt-🚀_3_Launches-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>📈 19,700+ Users</b>
-<br>
-<sub>Combined Day 1 Success</sub>
-<br>
-<sub>Top 10 Global Rankings</sub>
+<td align="center" width="50%">
+
+**🧠 AI / ML ARSENAL**
+```
+TENSORFLOW  ████████████████░░░░  LVL 80
+PYTORCH     ████████████████░░░░  LVL 80
+OPENCV      ████████████████████  LVL 99
+SCIKIT-LEARN████████████████░░░░  LVL 75
+```
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/Samsung_PRISM-🎯_Finalist-4169E1?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>🤖 96% Accuracy</b>
-<br>
-<sub>HAR Model Achievement</sub>
-<br>
-<sub>Mobile Optimized AI</sub>
+</tr>
+<tr>
+<td align="center">
+
+**☁️ CLOUD INFRASTRUCTURE**
+```
+AWS       ███████████████░░░░░  LVL 75
+FIREBASE  ████████████████████  LVL 99
+SUPABASE  ████████████████░░░░  LVL 80
+```
+<img src="https://skillicons.dev/icons?i=aws,firebase,supabase&theme=dark"/>
+
 </td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/26tPqTOGf3MMAo7Cw/giphy.gif" width="100"/>
-<br><br>
-<img src="https://img.shields.io/badge/NPTEL_IIT-💯_100/100-32CD32?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>🎓 Perfect Score</b>
-<br>
-<sub>Wildlife Ecology Course</sub>
-<br>
-<sub>IIT Madras Certified</sub>
+<td align="center">
+
+**🛠️ WEAPONS & TOOLS**
+```
+GIT       ████████████████████  LVL 99
+REACT     ████████████████░░░░  LVL 80
+ESP32     ████████████████████  LVL 95
+LINUX     ████████████████░░░░  LVL 75
+```
+<img src="https://skillicons.dev/icons?i=git,react,nextjs,nodejs,arduino,linux&theme=dark"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
 </td>
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             ◈ QUEST LOG ◈                   -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ &nbsp;QUEST LOG&nbsp; ◈
+
+<img src="https://img.shields.io/badge/[ RETRIEVING_MISSION_HISTORY... ]-FFD93D?style=flat-square&labelColor=0D1117"/>
+
+</div>
 
 <br>
 
-<!-- Product Launches -->
+<details open>
+<summary><b>🏆 &nbsp;[MAIN QUEST — S RANK] &nbsp;Founder & CEO @ LumiChats</b> &nbsp;•&nbsp; <i>Jan 2026 — ∞ ONGOING</i></summary>
+<br>
+<img align="right" width="300" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
+
+```
+QUEST TYPE  : LEGENDARY (WORLD-CHANGING)
+DIFFICULTY  : EXTREME ██████████ 10/10
+STATUS      : ● ACTIVE — IN PROGRESS
+REWARD XP   : ∞ (UNLIMITED)
+```
+
+**⚔️ MISSION:** Build India's most accessible AI platform — frontier models at ₹69/day
+
+**📜 ACHIEVEMENTS UNLOCKED:**
+- 🌐 **[LAUNCHED]** `lumichats.com` — Live globally, pay-per-day AI access
+- 🤖 **[EQUIPPED]** 40+ AI models — Claude, GPT-5, Gemini, DeepSeek & beyond
+- 📚 **[INVENTED]** Study Mode — zero-hallucination PDF AI with page-level citations
+- ⚡ **[BUILT]** Agent Mode — real Node.js execution in-browser via WebContainers
+- 🤗 **[PUBLISHED]** 5 open-source models on HuggingFace — thousands of downloads
+- 💰 **[BOOTSTRAPPED]** Zero external funding, ₹69/day making frontier AI accessible
+
+**🔧 LOADOUT:** `React` `Node.js` `OpenRouter API` `WebContainers` `Supabase` `Firebase`
+
+<br clear="right">
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚔️ &nbsp;[SIDE QUEST — A RANK] &nbsp;Ocean Electronics Intern @ NIOT</b> &nbsp;•&nbsp; <i>May 2025 — Jun 2025</i></summary>
+<br>
+<img align="right" width="300" src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif">
+
+```
+QUEST TYPE  : FIELD OPERATION
+DIFFICULTY  : HARD ████████░░ 8/10
+STATUS      : ✓ COMPLETED
+REWARD XP   : +8,500 XP
+```
+
+**⚔️ MISSION:** Engineer an Autonomous Surface Vehicle for ocean navigation
+
+**📜 ACHIEVEMENTS UNLOCKED:**
+- 🛰️ **[MASTERED]** Real-time GPS + 9-DOF BNO055 IMU fusion with ESP32
+- 🎯 **[UNLOCKED]** Kalman Filtering — advanced sensor fusion algorithms
+- 🧭 **[SURVIVED]** GPS-Denied Navigation — dead reckoning in zero-signal zones
+- 🗺️ **[DEPLOYED]** Artificial Potential Field path planning system
+
+**🔧 LOADOUT:** `ESP32` `Python` `C++` `Kalman Filters` `Navigation Algorithms`
+
+<br clear="right">
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚔️ &nbsp;[SIDE QUEST — A RANK] &nbsp;PRISM Intern @ Samsung</b> &nbsp;•&nbsp; <i>Jul 2024 — Dec 2024</i></summary>
+<br>
+<img align="right" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
+```
+QUEST TYPE  : RESEARCH LAB
+DIFFICULTY  : HARD ████████░░ 8/10
+STATUS      : ✓ COMPLETED
+REWARD XP   : +9,600 XP (96% accuracy bonus)
+```
+
+**⚔️ MISSION:** Build a Human Activity Recognition AI for mobile deployment
+
+**📜 ACHIEVEMENTS UNLOCKED:**
+- 🤖 **[FORGED]** Custom Transformer model on UCF101 dataset
+- 📊 **[ACHIEVED]** 96% accuracy — state-of-the-art performance
+- ⚡ **[OPTIMIZED]** 40% compute reduction vs CNNs — mobile ready
+- 📱 **[DEPLOYED]** Real-time inference on smartphones & wearables
+
+**🔧 LOADOUT:** `PyTorch` `TensorFlow` `Computer Vision` `Model Optimization`
+
+<br clear="right">
+</details>
+
+<br>
+
+<details open>
+<summary><b>⚔️ &nbsp;[SUPPORT QUEST — B RANK] &nbsp;Secretary @ VITC-MMC</b> &nbsp;•&nbsp; <i>Jul 2024 — Jul 2025</i></summary>
+<br>
+<img align="right" width="300" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif">
+
+```
+QUEST TYPE  : LEADERSHIP / GUILD MANAGEMENT
+DIFFICULTY  : MEDIUM ██████░░░░ 6/10
+STATUS      : ✓ COMPLETED
+REWARD XP   : +5,000 XP
+```
+
+**⚔️ MISSION:** Lead student innovation, events & content creation at scale
+
+**📜 ACHIEVEMENTS UNLOCKED:**
+- 👥 **[LED]** 30+ member organization
+- 🎪 **[ORGANIZED]** Events with 500+ attendees
+- 📚 **[AUTHORED]** Published a club-led novel
+- 🚀 **[AMPLIFIED]** Brand presence across campus
+
+**📈 PARTY STATS:** `500+ attendees` `Published novel` `30+ members`
+
+<br clear="right">
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          ◈ GUILD HEADQUARTERS ◈             -->
+<!-- ═══════════════════════════════════════════ -->
+
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Product Launches
+## ◈ &nbsp;GUILD HEADQUARTERS — LUMICHATS&nbsp; ◈
 
-<h3>🌊 Reached 19,700+ Users in 24 Hours</h3>
+<img src="https://img.shields.io/badge/[ ACCESSING_GUILD_SERVER... ]-A855F7?style=flat-square&labelColor=0D1117"/>
+
+<br><br>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  🏛️  GUILD: LUMICHATS                   RANK: LEGENDARY  ║
+║  ⚔️  LEADER: ADITYA KUMAR JHA           SINCE: JAN 2026  ║
+║  🌐  DOMAIN: lumichats.com              STATUS: ● LIVE   ║
+║  💰  ENTRY FEE: ₹69/DAY (FREE TO RECON: 5 MSG/DAY)      ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<a href="https://lumichats.com">
+  <img src="https://img.shields.io/badge/🌐_ENTER_GUILD-lumichats.com-00D9FF?style=for-the-badge&labelColor=0D1117&color=00D9FF"/>
+</a>
+<img src="https://img.shields.io/badge/⚔️_MODELS-40%2B_EQUIPPED-A855F7?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🤗_HF_MODELS-5_PUBLISHED-FFD93D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💰_PRICE-₹69%2FDAY-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**💡 GUILD MISSION**
+
+**LumiChats** is the guild where students & developers access 40+ frontier AI models without subscriptions. You pay ₹69 only on days you fight. 5 free recon messages daily — no ID required.
+
+> *"Why join 7 guilds when one gives you all their powers?"*
+
+**🔑 GUILD PERKS:**
+- ✅ Pay ₹69 — **only on active days**
+- ✅ **5 free messages** every 24h, no card
+- ✅ **Zero lock-in** — no monthly trap
+- ✅ Enterprise-grade **data fortress**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="240"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/📚_Study_Mode-Zero_Hallucinations-A855F7?style=flat-square&labelColor=0D1117"/>
+<br>
+<img src="https://img.shields.io/badge/🤖_Agent_Mode-Node.js_in_Browser-00D9FF?style=flat-square&labelColor=0D1117"/>
+<br>
+<img src="https://img.shields.io/badge/⚡_Auto_Router-Best_Model_Always-00FF88?style=flat-square&labelColor=0D1117"/>
+<br>
+<img src="https://img.shields.io/badge/🧠_Quiz_Hub-200%2B_AI_Glossary-FFD93D?style=flat-square&labelColor=0D1117"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**⚔️ GUILD ARSENAL — AVAILABLE WEAPONS**
+
+<p>
+<img src="https://img.shields.io/badge/Claude_4.6-Anthropic-CC785C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GPT--5-OpenAI-74AA9C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Gemini_2.5-Google-4285F4?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DeepSeek_R1-DeepSeek-FF6B6B?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Qwen3_Coder_480B-Alibaba-FF9900?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Llama_3.3_70B-Meta-0082FB?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Grok_4.1-xAI-A855F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Devstral_2-Mistral-00D9FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/%2B_33_More...-EQUIPPED-00FF88?style=flat-square&labelColor=0D1117"/>
+</p>
+
+<a href="https://lumichats.com">
+  <img src="https://img.shields.io/badge/🚀_JOIN_GUILD_FREE-5_Messages_•_No_Card-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          ◈ WORLDS CONQUERED ◈               -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ &nbsp;WORLDS CONQUERED&nbsp; ◈
+
+<img src="https://img.shields.io/badge/[ LOADING_BATTLE_HISTORY... ]-00FF88?style=flat-square&labelColor=0D1117"/>
+
+### ⚡ 19,700+ PLAYERS RECRUITED IN 24 HOURS ⚡
 
 </div>
 
 <table align="center">
 <tr>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120" height="120"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100"/>
 <br><br>
 
-### **🗺️ NukkadMiles**
-**AI Travel Planner**
+```
+╔═══════════════════╗
+║  🗺️  NUKKADMILES  ║
+║  RANK #8 WORLD    ║
+╚═══════════════════╝
+```
 
-<img src="https://img.shields.io/badge/🏆_Rank_8-Worldwide-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🏆_RANK_8-Worldwide-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=0D1117"/>
 
-<br>
-
-**6,700+ Users** • Day 1  
-✨ Personalized AI itineraries  
-💰 Fully bootstrapped  
-🚀 Zero external funding
-
-<br>
+**6,700+ Players** • Day 1
+<br>AI Travel Itineraries
+<br>Zero Funding — Fully Bootstrapped
 
 <a href="https://www.producthunt.com/posts/nukkadmiles">
-  <img src="https://img.shields.io/badge/View_Launch-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+  <img src="https://img.shields.io/badge/VIEW_MAP-FF6B6B?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </a>
 
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="120" height="120"/>
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100"/>
 <br><br>
 
-### **✅ NoteFlow**
-**Mood-Based Productivity**
+```
+╔═══════════════════╗
+║  ✅  NOTEFLOW     ║
+║  RANK #9 WORLD    ║
+╚═══════════════════╝
+```
 
-<img src="https://img.shields.io/badge/🏆_Rank_9-Worldwide-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🏆_RANK_9-Worldwide-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=0D1117"/>
 
-<br>
-
-**4,000+ Users** • Day 1  
-🎮 Gamified task system  
-🤖 AI writing assistant  
-🎵 Integrated music player
-
-<br>
+**4,000+ Players** • Day 1
+<br>Mood-Based Productivity AI
+<br>Gamified Task + Music System
 
 <a href="https://www.producthunt.com/posts/noteflow-2">
-  <img src="https://img.shields.io/badge/View_Launch-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+  <img src="https://img.shields.io/badge/VIEW_MAP-4ECDC4?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </a>
 
 </td>
 <td width="33%" align="center">
-<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="120" height="120"/>
+<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="100"/>
 <br><br>
 
-### **🏥 Chikitsa**
-**Ethical AI Healthcare**
+```
+╔═══════════════════╗
+║  🏥  CHIKITSA     ║
+║  RANK #34 WORLD   ║
+╚═══════════════════╝
+```
 
-<img src="https://img.shields.io/badge/🏆_Rank_34-Worldwide-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🏆_RANK_34-Worldwide-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white&labelColor=0D1117"/>
 
-<br>
-
-**9,000+ Users** • Day 1  
-🔒 Privacy-first medical AI  
-📊 Multi-user dashboards  
-🇮🇳 Built for India
-
-<br>
+**9,000+ Players** • Day 1
+<br>Ethical AI Healthcare
+<br>Privacy-First • Built for India 🇮🇳
 
 <a href="https://www.producthunt.com/posts/chikitsa">
-  <img src="https://img.shields.io/badge/View_Launch-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt"/>
+  <img src="https://img.shields.io/badge/VIEW_MAP-95E1D3?style=for-the-badge&logo=producthunt&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
-
-<!-- LumiChats Founder Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40"> Founder & CEO — LumiChats
-
-<p>
-<img src="https://img.shields.io/badge/🚀_40%2B_AI_Models-One_Platform-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🤖_Study_Mode-Agent_Mode-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💡_Built_for-Students_%26_Devs-4ECDC4?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-<br>
-
-<a href="https://lumichats.com">
-  <img src="https://img.shields.io/badge/🌐_lumichats.com-Live_Now-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
-</a>
-<img src="https://img.shields.io/badge/Founded-2026-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Models-40%2B-4ECDC4?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Price-₹69%2FDay-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
-
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-### 💡 What is LumiChats?
-
-**LumiChats** is a pay-per-day AI platform built for **students and developers** who need access to the world's best AI models — without paying for days they don't use.
-
-> *"Why subscribe to 7 different AI tools when one platform gives you all of them?"*
-
-<br>
-
-**🎯 Core Philosophy:**
-- ✅ Pay **₹69 only on days you actually use it**
-- ✅ **5 free messages every 24 hours** — no card needed
-- ✅ **Zero lock-in** — no monthly trap
-- ✅ Enterprise-grade **data privacy** baked in
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/5_Free_Messages-Every_24_Hours-00D9FF?style=flat-square&labelColor=1a1b27"/>
-<br>
-<img src="https://img.shields.io/badge/No_Card-No_Commitment-4ECDC4?style=flat-square&labelColor=1a1b27"/>
-<br>
-<img src="https://img.shields.io/badge/Unlimited_Plan-₹1%2C199%2FMonth-FFD93D?style=flat-square&labelColor=1a1b27"/>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80"/>
-<br><br>
-<img src="https://img.shields.io/badge/📚_Study_Mode-PDF_Intelligence-A855F7?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>Zero Hallucinations</b>
-<br>
-<sub>AI answers only from your uploaded pages — cites exact page numbers every time</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
-<br><br>
-<img src="https://img.shields.io/badge/🤖_Agent_Mode-Real_Code_Execution-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>Node.js in Browser</b>
-<br>
-<sub>AI writes, runs & debugs code autonomously via WebContainers (WASM)</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80"/>
-<br><br>
-<img src="https://img.shields.io/badge/⚡_Auto_Routing-Smart_Model_Select-4ECDC4?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>Best Model, Always</b>
-<br>
-<sub>Detects your task type and routes to the optimal model automatically</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="80"/>
-<br><br>
-<img src="https://img.shields.io/badge/🧠_Quiz_Hub-200%2B_AI_Glossary-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
-<br><br>
-<b>Learn While You Build</b>
-<br>
-<sub>Quiz yourself on any topic, explore 200+ AI concepts in plain language</sub>
-</td>
-</tr>
-</table>
-
-<br>
+<!-- ═══════════════════════════════════════════ -->
+<!--          ◈ LEGENDARY ARTIFACTS ◈            -->
+<!-- ═══════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🤖 40+ Models — All in One Place
+## ◈ &nbsp;LEGENDARY ARTIFACTS&nbsp; ◈
 
-<p>
-<img src="https://img.shields.io/badge/Claude_Sonnet_4.6-Anthropic-CC785C?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/GPT--5-OpenAI-74AA9C?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Gemini_2.5-Google-4285F4?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/DeepSeek_R1-DeepSeek-FF6B6B?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Qwen3_Coder_480B-Alibaba-FF9900?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Llama_3.3_70B-Meta-0082FB?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Devstral_2-Mistral-00D9FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Grok_4.1-xAI-A855F7?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/%2B_35_More...-All_Included-95E1D3?style=flat-square&labelColor=1a1b27"/>
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/🤗_HuggingFace-5_Open_Source_Models_Published-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
-
-<br><br>
-
-<a href="https://lumichats.com">
-  <img src="https://img.shields.io/badge/🚀_Try_LumiChats_Free-5_Messages_•_No_Card_Needed-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
-</a>
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Professional Experience -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
-
-</div>
-
-<details open>
-<summary><b>🚀 Founder & CEO @ LumiChats</b> • <i>Jan 2026 – Present</i></summary>
-<br>
-<img align="right" width="320" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
-
-**🎯 Mission:** Building India's Most Affordable AI Platform for Students & Developers
-
-**Key Achievements:**
-- 🌐 **Launched [lumichats.com](https://lumichats.com)** — Pay-per-day AI platform live globally
-- 🤖 **40+ AI Models** — Claude, GPT-5, Gemini, DeepSeek & more in one interface
-- 📚 **Study Mode** — Zero-hallucination PDF AI with exact page citations
-- ⚡ **Agent Mode** — Real code execution via WebContainers (Node.js in browser)
-- 🤗 **5 Open-Source Models** published on HuggingFace, downloaded by thousands
-- 💰 **Bootstrapped** — ₹69/day pricing making frontier AI accessible to every student
-
-**🔧 Tech Stack:** `React` `Node.js` `OpenRouter API` `WebContainers` `Supabase` `Firebase`
-
-**📈 Impact:** `40+ Models` `Global Users` `5 OSS Models` `₹69/day pricing`
-
-<br clear="right">
-</details>
-
-<details open>
-<summary><b>🌊 Ocean Electronics Intern @ NIOT</b> • <i>May 2025 – Jun 2025</i></summary>
-<br>
-<img align="right" width="320" src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif">
-
-**🎯 Mission:** Autonomous Surface Vehicle Engineering
-
-**Key Achievements:**
-- 🛰️ **Real-time Navigation**: Integrated GPS + 9-DOF BNO055 IMU with ESP32
-- 🎯 **Kalman Filtering**: Implemented advanced sensor fusion algorithms
-- 🧭 **GPS-Denied Navigation**: Built dead reckoning system for signal loss
-- 🗺️ **Path Planning**: Deployed Artificial Potential Field methods
-
-**🔧 Tech Stack:** `ESP32` `Python` `C++` `Kalman Filters` `Navigation Algorithms`
-
-<br clear="right">
-</details>
-
-<details open>
-<summary><b>📱 PRISM Intern @ Samsung</b> • <i>Jul 2024 – Dec 2024</i></summary>
-<br>
-<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
-
-**🎯 Mission:** Human Activity Recognition AI Model
-
-**Key Achievements:**
-- 🤖 **Transformer Architecture**: Built custom model on UCF101 dataset
-- 📊 **96% Accuracy**: Achieved state-of-the-art performance
-- ⚡ **Mobile Optimization**: Reduced compute cost by 40% vs CNNs
-- 📱 **Real-time Inference**: Deployed on smartphones & wearables
-
-**🔧 Tech Stack:** `PyTorch` `TensorFlow` `Computer Vision` `Model Optimization`
-
-<br clear="right">
-</details>
-
-<details open>
-<summary><b>🎯 Secretary @ VITC-MMC</b> • <i>Jul 2024 – Jul 2025</i></summary>
-<br>
-<img align="right" width="320" src="https://media.giphy.com/media/l0HlRnAWXxn0MhKLK/giphy.gif">
-
-**🎯 Mission:** Leading Student Innovation & Content
-
-**Key Achievements:**
-- 👥 **Team Leadership**: Directed 30+ member organization
-- 🎪 **Event Management**: Organized events with 500+ attendees
-- 📚 **Content Creation**: Authored & published club-led novel
-- 🚀 **Brand Building**: Significantly enhanced organizational visibility
-
-**📈 Impact:** `500+ attendees per event` `Published novel` `Increased engagement`
-
-<br clear="right">
-</details>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<!-- Featured Projects -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="40"> Featured Projects
+<img src="https://img.shields.io/badge/[ SCANNING_ITEM_VAULT... ]-FFD93D?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
@@ -566,206 +537,302 @@ me.say_hi()
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 **Tervive**
-**AQI-Based Health Risk Predictor**
+### 🌱 TERVIVE — *[LEGENDARY]*
+**AQI Health Risk Predictor**
 
-<p>
-<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-FFD700?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Type-Mobile_App-FF6B6B?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆◆◆ LEGENDARY
+TYPE    : Mobile App
+STATUS  : 🟢 LIVE
+ARENA   : IEEE YESSIT'24 FINALIST
+```
 
-ML-powered platform predicting air-quality health risks with decentralized plant seller marketplace. Represented India at IEEE YESSIT'24 international competition in Tunisia.
+<img src="https://img.shields.io/badge/IEEE-YESSIT'24_Finalist-FFD700?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-Live-00FF88?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `Python` `Firebase` `React Native` `Machine Learning` `Data Analytics`
+ML-powered platform predicting air-quality health risks. Represented India at IEEE YESSIT'24 in Tunisia.
+
+`Python` `Firebase` `React Native` `ML` `Data Analytics`
 
 <a href="https://github.com/adityajhakumar/terviveapp">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🤖 **LumiChat**
-**Multi-Model AI Orchestration Platform**
+### 🤖 LUMICHAT — *[MYTHIC]*
+**Multi-Model AI Orchestration**
 
-<p>
-<img src="https://img.shields.io/badge/Models-22+-A855F7?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Type-AI_Platform-F59E0B?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆◆◆ MYTHIC
+TYPE    : AI Platform
+STATUS  : 🟢 LIVE (lumichats.com)
+POWER   : 40+ AI Models
+```
 
-Unified interface accessing 22+ AI models. Helps students overcome model limitations & documentation issues. Supports text, images, and knowledge-based prompts.
+<img src="https://img.shields.io/badge/Models-40%2B-A855F7?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Type-AI_Platform-FFD93D?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `Python` `API Integration` `Multi-modal AI` `React` `LLM Orchestration`
+One interface for 22+ AI models. Study Mode, Agent Mode, Auto-Routing.
+
+`Python` `React` `OpenRouter` `LLM Orchestration`
 
 <a href="https://github.com/adityajhakumar/LumiChat">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🛡️ **Tracing Source of Attack**
-**Cybersecurity Analysis Tool**
+### 🛡️ TRACING HACKER — *[EPIC]*
+**Cybersecurity Attack Tracer**
 
-<p>
-<img src="https://img.shields.io/badge/Type-Security_Tool-EF4444?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/GUI-Python-3B82F6?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆◆░ EPIC
+TYPE    : Security Tool
+STATUS  : ✓ FORGED
+```
 
-Real-time IP tracing with geolocation mapping and anomaly detection. Features simulated attack analysis and network forensics.
+<img src="https://img.shields.io/badge/Type-Security_Tool-EF4444?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `Python` `Networking` `GUI (Tkinter)` `Security` `Geolocation API`
+Real-time IP tracing, geolocation mapping, anomaly detection, simulated attack forensics.
+
+`Python` `Networking` `Tkinter` `Geolocation API`
 
 <a href="https://github.com/adityajhakumar/TRACING_HACKER">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 **AnalyzeX**
+### 📊 ANALYZEX — *[EPIC]*
 **AI Business Intelligence Agent**
 
-<p>
-<img src="https://img.shields.io/badge/Cost_Savings-80%25-10B981?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Privacy-First-6366F1?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆◆░ EPIC
+TYPE    : No-Code AI Platform
+SAVINGS : 80% COST REDUCTION
+```
 
-No-code platform generating automated reports & dashboards. Data never leaves local system. Enables non-technical users to query datasets via AI.
+<img src="https://img.shields.io/badge/Savings-80%25-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Privacy-First-A855F7?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `Python` `AI Agents` `Data Privacy` `Analytics` `Natural Language Processing`
+No-code platform for automated reports & dashboards. Data never leaves local system.
+
+`Python` `AI Agents` `NLP` `Data Privacy`
 
 <a href="https://github.com/adityajhakumar/AnalyzeX">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🌿 **PlantNetLite**
-**Plant Disease Detection System**
+### 🌿 PLANTNETLITE — *[RARE]*
+**Plant Disease Detection**
 
-<p>
-<img src="https://img.shields.io/badge/Accuracy-97%25-22C55E?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Type-Computer_Vision-EC4899?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆░░ RARE
+TYPE    : Computer Vision
+ACCURACY: 97% ██████████░░ CRITICAL HIT
+```
 
-Deep learning tool detecting plant diseases with 97% accuracy. Real-time detection system for agricultural applications.
+<img src="https://img.shields.io/badge/Accuracy-97%25-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Type-Computer_Vision-EC4899?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `TensorFlow` `OpenCV` `CNN` `Python` `Image Processing`
+Deep learning plant disease detector — 97% accuracy, real-time agricultural deployment.
 
-<a href="https://github.com/adityajhakumar/VITC_CCPS_INTERNSHIP">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+`TensorFlow` `OpenCV` `CNN` `Python`
+
+<a href="https://github.com/adityajhakumar/PlantNetLite">
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
 
-### 🎭 **DARKENSION**
+### 🎭 DARKENSION — *[RARE]*
 **Dark Pattern Detection Extension**
 
-<p>
-<img src="https://img.shields.io/badge/Type-Browser_Extension-FACC15?style=flat-square&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/Protection-UX_Manipulation-F97316?style=flat-square&labelColor=1a1b27"/>
-</p>
+```
+RARITY  : ◆◆◆░░ RARE
+TYPE    : Browser Extension
+MISSION : PROTECT USERS
+```
 
-Identifies deceptive UX patterns with integrated ad-blocker. Protects users from manipulative design practices.
+<img src="https://img.shields.io/badge/Type-Browser_Extension-FACC15?style=flat-square&labelColor=0D1117"/>
 
-**Stack:** `JavaScript` `Browser API` `Machine Learning` `UX Analysis`
+Detects deceptive UX patterns + built-in ad-blocker. Guards players from manipulative design.
+
+`JavaScript` `Browser API` `ML` `UX Analysis`
 
 <a href="https://github.com/adityajhakumar/DARK_PATTERN_EXTENSION">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⚔️_INSPECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<!-- ═══════════════════════════════════════════ -->
+<!--          ◈ BOSS DEFEATS / HALL ◈            -->
+<!-- ═══════════════════════════════════════════ -->
 
-<!-- Author Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="55"> Author's Corner
+## ◈ &nbsp;BOSS DEFEATS&nbsp; ◈
 
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif" width="180"/>
+<img src="https://img.shields.io/badge/[ LOADING_VICTORY_LOG... ]-FF6B6B?style=flat-square&labelColor=0D1117"/>
 
-### 📚 Published Science Fiction Author
+</div>
 
-**5 Novels Published** via Amazon KDP
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="90"/>
+<br><br>
 
-*Exploring futures where technology meets humanity*
+```
+BOSS DEFEATED
+★★★★★
+```
+
+<img src="https://img.shields.io/badge/IEEE_YESSIT'24-🏆_FINALIST-FFD700?style=for-the-badge&labelColor=0D1117"/>
+
+**🌍 International Arena**
+<br><sub>Represented India in Tunisia</sub>
+<br><sub>Climate Health Innovation</sub>
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="90"/>
+<br><br>
+
+```
+BOSS DEFEATED
+★★★★★
+```
+
+<img src="https://img.shields.io/badge/Product_Hunt-🚀_3_RAIDS-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+
+**📈 19,700+ Recruited**
+<br><sub>Combined Day 1 Victory</sub>
+<br><sub>Top 10 Global Rankings</sub>
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="90"/>
+<br><br>
+
+```
+BOSS DEFEATED
+★★★★☆
+```
+
+<img src="https://img.shields.io/badge/Samsung_PRISM-🎯_FINALIST-4169E1?style=for-the-badge&labelColor=0D1117"/>
+
+**🤖 96% Accuracy**
+<br><sub>HAR Model Achievement</sub>
+<br><sub>Mobile-Optimized AI</sub>
+
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26tPqTOGf3MMAo7Cw/giphy.gif" width="90"/>
+<br><br>
+
+```
+BOSS DEFEATED
+★★★★★  PERFECT
+```
+
+<img src="https://img.shields.io/badge/NPTEL_IIT-💯_100%2F100-00FF88?style=for-the-badge&labelColor=0D1117"/>
+
+**🎓 PERFECT SCORE**
+<br><sub>Wildlife Ecology — IIT Madras</sub>
+<br><sub>Certified 100/100</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--        ◈ LORE: THE CHRONICLES ◈             -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
+
+## ◈ &nbsp;LORE: THE CHRONICLES&nbsp; ◈
+
+<img src="https://img.shields.io/badge/[ ACCESSING_RESTRICTED_ARCHIVE... ]-FFD93D?style=flat-square&labelColor=0D1117"/>
+
+<img src="https://media.giphy.com/media/LwIyvaNcnzsD6/giphy.gif" width="55"/>
+
+### 📚 SCIENCE FICTION AUTHOR — 5 NOVELS FORGED
+
+```
+AUTHOR CLASS  : PUBLISHED SCI-FI WRITER
+PUBLISHER     : AMAZON KDP
+NOVELS        : 5 FORGED & LIVE
+THEME         : WHERE TECHNOLOGY MEETS HUMANITY
+```
+
+*Exploring futures where code rewrites civilization*
 
 <br>
 
 <a href="https://www.amazon.in/stores/Aditya-kumar-jha/author/B0DDJ1ZZHZ">
-  <img src="https://img.shields.io/badge/📖_Read_My_Novels-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=1a1b27" alt="Author Page"/>
+  <img src="https://img.shields.io/badge/📖_READ_THE_CHRONICLES-FF9900?style=for-the-badge&logo=amazon&logoColor=white&labelColor=0D1117"/>
 </a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-<br>
+<!-- ═══════════════════════════════════════════ -->
+<!--           ◈ SEND TRANSMISSION ◈             -->
+<!-- ═══════════════════════════════════════════ -->
 
-<!-- Connect Section -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Build Together
+## ◈ &nbsp;SEND TRANSMISSION&nbsp; ◈
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-
-<br>
-
-**💡 Open to discuss:**
-`AI & ML Projects` • `Product Ideas` • `Startup Collaborations` • `Autonomous Systems` • `Sci-Fi & Tech`
+<img src="https://img.shields.io/badge/[ OPENING_COMMS_CHANNEL... ]-00D9FF?style=flat-square&labelColor=0D1117"/>
 
 <br><br>
 
-<p align="center">
+```
+┌─────────────────────────────────────────────────────────────┐
+│  OPEN TO TRANSMISSIONS ABOUT:                               │
+│                                                             │
+│  ◈ AI & ML Collaboration    ◈ Startup Co-Founding          │
+│  ◈ Product Ideas            ◈ Autonomous Systems           │
+│  ◈ Sci-Fi & Tech Futures    ◈ Open Source Missions         │
+└─────────────────────────────────────────────────────────────┘
+```
+
 <a href="mailto:adityajha29092004@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/⬡_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-kumar-jha-b0b669252">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/⬡_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 <a href="https://github.com/adityajhakumar">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/⬡_GITHUB-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
 </a>
-</p>
 
 </div>
 
-<br>
+---
 
-<!-- Philosophy Section -->
+<!-- ═══════════════════════════════════════════ -->
+<!--            ◈ NEURAL MAP ◈                   -->
+<!-- ═══════════════════════════════════════════ -->
+
 <div align="center">
 
-### 💭 Philosophy
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-<br>
-
-**"The only limit to innovation is the edge of your imagination"**
-
-**"...and maybe a few memory leaks 💻"**
-
-<br>
-
-<img src="https://img.shields.io/badge/🍕_Fork_My_Repos-Not_My_Pizza-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
-
-<br><br>
-
-**Code like an engineer • Dream like a writer • Build like a founder**
-
-</div>
-
-<br>
-
-<!-- Snake Animation -->
-<div align="center">
+## ◈ &nbsp;NEURAL MAP&nbsp; ◈
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -775,33 +842,17 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 
 </div>
 
-<br>
+---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<!-- ═══════════════════════════════════════════ -->
+<!--           ◈ MINI GAMES ◈                    -->
+<!-- ═══════════════════════════════════════════ -->
 
-<!-- Extra Animations -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+## ◈ &nbsp;SIDE GAMES — TAKE A BREAK&nbsp; ◈
 
-<br>
-
-**⚡ Fun Fact:** I debug bugs faster than my coffee gets cold ☕
-
-<br><br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
-
-</div>
-<!-- Interactive Games Section -->
-<div align="center">
-
-## 🎮 Interactive Challenge - Click to Play!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🕹️+Click+the+Buttons+to+Play+Games!;🎯+Take+a+Break+•+Have+Some+Fun!" alt="Games"/>
+<img src="https://img.shields.io/badge/[ LAUNCHING_ARCADE... ]-A855F7?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
@@ -809,13 +860,11 @@ Identifies deceptive UX patterns with integrated ad-blocker. Protects users from
 <tr>
 <td align="center" width="33%">
 
-**🐍 Snake Game**
+**🐍 Snake**
 
 <a href="https://playsnake.org/" target="_blank">
-  <img src="https://img.shields.io/badge/🕹️_PLAY_SNAKE-00D9FF?style=for-the-badge&logoColor=white" alt="Play Snake"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-00D9FF?style=for-the-badge"/>
 </a>
-
-Classic retro gaming
 
 </td>
 <td align="center" width="33%">
@@ -823,69 +872,89 @@ Classic retro gaming
 **🦕 Dino Run**
 
 <a href="https://chromedino.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🦖_PLAY_DINO-4ECDC4?style=for-the-badge&logoColor=white" alt="Play Dino"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-4ECDC4?style=for-the-badge"/>
 </a>
-
-Chrome's offline game
 
 </td>
 <td align="center" width="33%">
 
-**🧩 2048 Puzzle**
+**🧩 2048**
 
 <a href="https://play2048.co/" target="_blank">
-  <img src="https://img.shields.io/badge/🎲_PLAY_2048-95E1D3?style=for-the-badge&logoColor=white" alt="Play 2048"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-FFD93D?style=for-the-badge"/>
 </a>
-
-Addictive number puzzle
 
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td align="center">
 
-**🎮 Pac-Man**
+**👻 Pac-Man**
 
 <a href="https://pacman.com/en/" target="_blank">
-  <img src="https://img.shields.io/badge/👻_PLAY_PACMAN-FFD93D?style=for-the-badge&logoColor=white" alt="Play Pac-Man"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-FF6B6B?style=for-the-badge"/>
 </a>
 
-Iconic arcade legend
-
 </td>
-<td align="center" width="33%">
+<td align="center">
 
 **🧱 Tetris**
 
 <a href="https://tetris.com/play-tetris" target="_blank">
-  <img src="https://img.shields.io/badge/🧱_PLAY_TETRIS-A855F7?style=for-the-badge&logoColor=white" alt="Play Tetris"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-A855F7?style=for-the-badge"/>
 </a>
 
-Block stacking classic
-
 </td>
-<td align="center" width="33%">
+<td align="center">
 
 **🏓 Pong**
 
 <a href="https://pong-2.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🏓_PLAY_PONG-FF6B6B?style=for-the-badge&logoColor=white" alt="Play Pong"/>
+  <img src="https://img.shields.io/badge/▶_PLAY-00FF88?style=for-the-badge"/>
 </a>
-
-Retro table tennis
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-<b>🏆 Pro Tip:</b> Click on the buttons above to launch the games in a new tab!
-</p>
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              ◈ GAME OVER ◈                  -->
+<!-- ═══════════════════════════════════════════ -->
+
+<div align="center">
 
 <br>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/userupload/42346351/file/original-3861e12764d32a1a5ad6e907674fe7a2.gif" width="500">
-</p>
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                         ▓
+▓   "The only limit to innovation is the edge of your    ▓
+▓    imagination... and maybe a few memory leaks 💻"     ▓
+▓                                                         ▓
+▓   Code like an engineer • Dream like a writer          ▓
+▓   Build like a founder                                 ▓
+▓                                                         ▓
+▓   > SESSION SAVED                                       ▓
+▓   > THANKS FOR VISITING, TRAVELER. ◈                   ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <br>
+
+<img src="https://img.shields.io/badge/🍕_FORK_MY_REPOS-Not_My_Pizza-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/⚡_FUN_FACT-I_debug_faster_than_coffee_cools-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+
+<br><br>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
+
+<br><br>
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:00D9FF,100:0D1117&height=120&section=footer&animation=twinkling"/>
