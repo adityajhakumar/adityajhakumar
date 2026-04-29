@@ -14,17 +14,18 @@
 <div align="center">
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                             ▓
-▓   > NEURAL_OS v2.4.0 — BOOTING...                          ▓
-▓   > PLAYER IDENTITY   : ADITYA KUMAR JHA                   ▓
-▓   > CLASS             : AI ARCHITECT + FOUNDER             ▓
-▓   > GUILD             : LUMICHATS [LEADER]                 ▓
-▓   > BASE              : CHENNAI, INDIA 🇮🇳                  ▓
-▓   > STATUS            : ONLINE ● BUILDING                  ▓
-▓                                                             ▓
-▓   > ALL SYSTEMS OPERATIONAL. WELCOME, TRAVELER.            ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║   > NEURAL_OS v2.4.0 .............. BOOTING  [OK]          ║
+║   > PLAYER IDENTITY   : ADITYA KUMAR JHA                   ║
+║   > CLASS             : AI ARCHITECT + FOUNDER             ║
+║   > GUILD             : LUMICHATS  [LEADER]                ║
+║   > BASE              : CHENNAI, INDIA                     ║
+║   > STATUS            : ONLINE  [BUILDING]                 ║
+║                                                             ║
+║   > ALL SYSTEMS OPERATIONAL. WELCOME, TRAVELER.            ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -124,7 +125,7 @@ hero = Player()
 
 <br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&ring_color=FF6B6B&custom_title=⚔️+COMBAT+RECORD" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityajhakumar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A855F7&text_color=FFFFFF&count_private=true&ring_color=FF6B6B&custom_title=⚔️+COMBAT+RECORD" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=adityajhakumar&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
 
 <br><br>
@@ -928,17 +929,18 @@ THEME         : WHERE TECHNOLOGY MEETS HUMANITY
 <br>
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                         ▓
-▓   "The only limit to innovation is the edge of your    ▓
-▓    imagination... and maybe a few memory leaks 💻"     ▓
-▓                                                         ▓
-▓   Code like an engineer • Dream like a writer          ▓
-▓   Build like a founder                                 ▓
-▓                                                         ▓
-▓   > SESSION SAVED                                       ▓
-▓   > THANKS FOR VISITING, TRAVELER. ◈                   ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+╔═════════════════════════════════════════════════════════╗
+║                                                         ║
+║   "The only limit to innovation is the edge of your    ║
+║    imagination... and maybe a few memory leaks"        ║
+║                                                         ║
+║   Code like an engineer  •  Dream like a writer        ║
+║   Build like a founder                                 ║
+║                                                         ║
+║   > SESSION SAVED ...................... [OK]           ║
+║   > THANKS FOR VISITING, TRAVELER.     [◈]             ║
+║                                                         ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
 <br>
