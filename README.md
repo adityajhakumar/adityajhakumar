@@ -330,6 +330,139 @@ me.say_hi()
 
 <br>
 
+<!-- LumiChats Founder Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40"> Founder & CEO — LumiChats
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+40%2B+AI+Models.+One+Platform.+₹69%2FDay.;🤖+Study+Mode+•+Agent+Mode+•+Quiz+Hub;💡+Built+for+Students+%26+Developers+in+India+%26+Beyond" alt="LumiChats Typing"/>
+
+<br>
+
+<a href="https://lumichats.com">
+  <img src="https://img.shields.io/badge/🌐_lumichats.com-Live_Now-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
+</a>
+<img src="https://img.shields.io/badge/Founded-2026-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Models-40%2B-4ECDC4?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Price-₹69%2FDay-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+### 💡 What is LumiChats?
+
+**LumiChats** is a pay-per-day AI platform built for **students and developers** who need access to the world's best AI models — without paying for days they don't use.
+
+> *"Why subscribe to 7 different AI tools when one platform gives you all of them?"*
+
+<br>
+
+**🎯 Core Philosophy:**
+- ✅ Pay **₹69 only on days you actually use it**
+- ✅ **5 free messages every 24 hours** — no card needed
+- ✅ **Zero lock-in** — no monthly trap
+- ✅ Enterprise-grade **data privacy** baked in
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/5_Free_Messages-Every_24_Hours-00D9FF?style=flat-square&labelColor=1a1b27"/>
+<br>
+<img src="https://img.shields.io/badge/No_Card-No_Commitment-4ECDC4?style=flat-square&labelColor=1a1b27"/>
+<br>
+<img src="https://img.shields.io/badge/Unlimited_Plan-₹1%2C199%2FMonth-FFD93D?style=flat-square&labelColor=1a1b27"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="80"/>
+<br><br>
+<img src="https://img.shields.io/badge/📚_Study_Mode-PDF_Intelligence-A855F7?style=for-the-badge&labelColor=1a1b27"/>
+<br><br>
+<b>Zero Hallucinations</b>
+<br>
+<sub>AI answers only from your uploaded pages — cites exact page numbers every time</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80"/>
+<br><br>
+<img src="https://img.shields.io/badge/🤖_Agent_Mode-Real_Code_Execution-FF6B6B?style=for-the-badge&labelColor=1a1b27"/>
+<br><br>
+<b>Node.js in Browser</b>
+<br>
+<sub>AI writes, runs & debugs code autonomously via WebContainers (WASM)</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="80"/>
+<br><br>
+<img src="https://img.shields.io/badge/⚡_Auto_Routing-Smart_Model_Select-4ECDC4?style=for-the-badge&labelColor=1a1b27"/>
+<br><br>
+<b>Best Model, Always</b>
+<br>
+<sub>Detects your task type and routes to the optimal model automatically</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/l0K4mVE5b5WZ1sctO/giphy.gif" width="80"/>
+<br><br>
+<img src="https://img.shields.io/badge/🧠_Quiz_Hub-200%2B_AI_Glossary-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
+<br><br>
+<b>Learn While You Build</b>
+<br>
+<sub>Quiz yourself on any topic, explore 200+ AI concepts in plain language</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🤖 40+ Models — All in One Place
+
+<p>
+<img src="https://img.shields.io/badge/Claude_Sonnet_4.6-Anthropic-CC785C?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/GPT--5-OpenAI-74AA9C?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Gemini_2.5-Google-4285F4?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/DeepSeek_R1-DeepSeek-FF6B6B?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Qwen3_Coder_480B-Alibaba-FF9900?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Llama_3.3_70B-Meta-0082FB?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Devstral_2-Mistral-00D9FF?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Grok_4.1-xAI-A855F7?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/%2B_35_More...-All_Included-95E1D3?style=flat-square&labelColor=1a1b27"/>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/🤗_HuggingFace-5_Open_Source_Models_Published-FFD93D?style=for-the-badge&labelColor=1a1b27"/>
+
+<br><br>
+
+<a href="https://lumichats.com">
+  <img src="https://img.shields.io/badge/🚀_Try_LumiChats_Free-5_Messages_•_No_Card_Needed-00D9FF?style=for-the-badge&labelColor=1a1b27&color=00D9FF"/>
+</a>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 <!-- Professional Experience -->
 <div align="center">
 
