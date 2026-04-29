@@ -335,7 +335,11 @@ me.say_hi()
 
 ## <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="40"> Founder & CEO — LumiChats
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=700&lines=🚀+40%2B+AI+Models.+One+Platform.+₹69%2FDay.;🤖+Study+Mode+•+Agent+Mode+•+Quiz+Hub;💡+Built+for+Students+%26+Developers+in+India+%26+Beyond" alt="LumiChats Typing"/>
+<p>
+<img src="https://img.shields.io/badge/🚀_40%2B_AI_Models-One_Platform-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🤖_Study_Mode-Agent_Mode-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/💡_Built_for-Students_%26_Devs-4ECDC4?style=for-the-badge&labelColor=0D1117"/>
+</p>
 
 <br>
 
@@ -469,6 +473,28 @@ me.say_hi()
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Experience
 
 </div>
+
+<details open>
+<summary><b>🚀 Founder & CEO @ LumiChats</b> • <i>Jan 2026 – Present</i></summary>
+<br>
+<img align="right" width="320" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
+
+**🎯 Mission:** Building India's Most Affordable AI Platform for Students & Developers
+
+**Key Achievements:**
+- 🌐 **Launched [lumichats.com](https://lumichats.com)** — Pay-per-day AI platform live globally
+- 🤖 **40+ AI Models** — Claude, GPT-5, Gemini, DeepSeek & more in one interface
+- 📚 **Study Mode** — Zero-hallucination PDF AI with exact page citations
+- ⚡ **Agent Mode** — Real code execution via WebContainers (Node.js in browser)
+- 🤗 **5 Open-Source Models** published on HuggingFace, downloaded by thousands
+- 💰 **Bootstrapped** — ₹69/day pricing making frontier AI accessible to every student
+
+**🔧 Tech Stack:** `React` `Node.js` `OpenRouter API` `WebContainers` `Supabase` `Firebase`
+
+**📈 Impact:** `40+ Models` `Global Users` `5 OSS Models` `₹69/day pricing`
+
+<br clear="right">
+</details>
 
 <details open>
 <summary><b>🌊 Ocean Electronics Intern @ NIOT</b> • <i>May 2025 – Jun 2025</i></summary>
